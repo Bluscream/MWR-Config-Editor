@@ -16,14 +16,15 @@ namespace CFGParser.Classes
         public CFGData() { }
         public CFGData(string input) {
             Raw = input;
-            var dvarInfo = DVARS.Load();
+            List<DVAR> dvarInfo = null;
+            if (File.Exists(DVARS.DefaultFileName)) dvarInfo = DVARS.Load();
             foreach (var line in input.SplitToLines()) {
-                var lineMatch = Utils.CommentPattern.Match(line);
+                /*var lineMatch = Utils.CommentPattern.Match(line);
                 if (lineMatch.Success) {
                     Comments.Add(line);
-                } else {
+                } else {*/
                     Lines.Add(new CFGLine(line, dvarInfo: dvarInfo));
-                }
+                // }
             }
         }
     }

@@ -31,8 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DVARInfo));
             this.btn_save = new System.Windows.Forms.Button();
             this.table_dvar = new System.Windows.Forms.DataGridView();
-            this.Name = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Value = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Header_Name = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Header_Value = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.table_dvar)).BeginInit();
             this.SuspendLayout();
             // 
@@ -53,8 +53,8 @@
             this.table_dvar.AllowUserToDeleteRows = false;
             this.table_dvar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.table_dvar.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Name,
-            this.Value});
+            this.Header_Name,
+            this.Header_Value});
             this.table_dvar.Location = new System.Drawing.Point(12, 12);
             this.table_dvar.MultiSelect = false;
             this.table_dvar.Name = "table_dvar";
@@ -62,18 +62,18 @@
             this.table_dvar.Size = new System.Drawing.Size(428, 394);
             this.table_dvar.TabIndex = 1;
             // 
-            // Name
+            // Header_Name
             // 
-            this.Name.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
-            this.Name.HeaderText = "Name";
-            this.Name.Name = "Name";
-            this.Name.Width = 58;
+            this.Header_Name.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.AllCells;
+            this.Header_Name.HeaderText = "Name";
+            this.Header_Name.Name = "Header_Name";
+            this.Header_Name.Width = 58;
             // 
-            // Value
+            // Header_Value
             // 
-            this.Value.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Value.HeaderText = "Value";
-            this.Value.Name = "Value";
+            this.Header_Value.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Header_Value.HeaderText = "Value";
+            this.Header_Value.Name = "Header_Value";
             // 
             // DVARInfo
             // 
@@ -83,7 +83,7 @@
             this.Controls.Add(this.table_dvar);
             this.Controls.Add(this.btn_save);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            // this.Name = "DVARInfo";
+            this.Name = "DVARInfo";
             this.Text = "Infos about DVAR";
             ((System.ComponentModel.ISupportInitialize)(this.table_dvar)).EndInit();
             this.ResumeLayout(false);
@@ -94,7 +94,7 @@
 
         private System.Windows.Forms.Button btn_save;
         private System.Windows.Forms.DataGridView table_dvar;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Name;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Value;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Header_Name;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Header_Value;
     }
 }

@@ -38,9 +38,9 @@
             this.helToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openConfigExternallyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openToolConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.table_config = new System.Windows.Forms.DataGridView();
             this.updateDVARInfosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openDVARInfosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.table_config = new System.Windows.Forms.DataGridView();
             this.menu_dvar = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.changeNameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menu_main.SuspendLayout();
@@ -115,21 +115,6 @@
             this.openToolConfigToolStripMenuItem.Text = "Open Tool Config";
             this.openToolConfigToolStripMenuItem.Click += new System.EventHandler(this.openToolConfigToolStripMenuItem_Click);
             // 
-            // table_config
-            // 
-            this.table_config.AllowUserToOrderColumns = true;
-            this.table_config.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.table_config.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.table_config.Location = new System.Drawing.Point(0, 25);
-            this.table_config.MultiSelect = false;
-            this.table_config.Name = "table_config";
-            this.table_config.RowHeadersVisible = false;
-            this.table_config.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.AutoSizeToDisplayedHeaders;
-            this.table_config.Size = new System.Drawing.Size(800, 403);
-            this.table_config.TabIndex = 2;
-            this.table_config.CellContextMenuStripNeeded += new System.Windows.Forms.DataGridViewCellContextMenuStripNeededEventHandler(this.table_config_CellContextMenuStripNeeded);
-            this.table_config.CellToolTipTextNeeded += new System.Windows.Forms.DataGridViewCellToolTipTextNeededEventHandler(this.table_config_CellToolTipTextNeeded);
-            // 
             // updateDVARInfosToolStripMenuItem
             // 
             this.updateDVARInfosToolStripMenuItem.Name = "updateDVARInfosToolStripMenuItem";
@@ -144,17 +129,35 @@
             this.openDVARInfosToolStripMenuItem.Text = "Open DVAR Infos";
             this.openDVARInfosToolStripMenuItem.Click += new System.EventHandler(this.openDVARInfosToolStripMenuItem_Click);
             // 
+            // table_config
+            // 
+            this.table_config.AllowUserToOrderColumns = true;
+            this.table_config.AllowUserToResizeRows = false;
+            this.table_config.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.table_config.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.table_config.Location = new System.Drawing.Point(0, 25);
+            this.table_config.MultiSelect = false;
+            this.table_config.Name = "table_config";
+            this.table_config.RowHeadersVisible = false;
+            this.table_config.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.AutoSizeToDisplayedHeaders;
+            this.table_config.ShowRowErrors = false;
+            this.table_config.Size = new System.Drawing.Size(800, 403);
+            this.table_config.TabIndex = 2;
+            this.table_config.CellContextMenuStripNeeded += new System.Windows.Forms.DataGridViewCellContextMenuStripNeededEventHandler(this.table_config_CellContextMenuStripNeeded);
+            this.table_config.CellToolTipTextNeeded += new System.Windows.Forms.DataGridViewCellToolTipTextNeededEventHandler(this.table_config_CellToolTipTextNeeded);
+            this.table_config.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.table_config_DataError);
+            // 
             // menu_dvar
             // 
             this.menu_dvar.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.changeNameToolStripMenuItem});
             this.menu_dvar.Name = "menu_dvar";
-            this.menu_dvar.Size = new System.Drawing.Size(181, 48);
+            this.menu_dvar.Size = new System.Drawing.Size(144, 26);
             // 
             // changeNameToolStripMenuItem
             // 
             this.changeNameToolStripMenuItem.Name = "changeNameToolStripMenuItem";
-            this.changeNameToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.changeNameToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
             this.changeNameToolStripMenuItem.Text = "Change Info";
             this.changeNameToolStripMenuItem.Click += new System.EventHandler(this.changeNameToolStripMenuItem_Click);
             // 

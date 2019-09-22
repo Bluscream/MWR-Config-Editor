@@ -17,13 +17,17 @@ namespace MWR_Config_Editor
         public Main()
         {
             InitializeComponent();
+            loadedCFG = new CFGFile(new System.IO.FileInfo("../players2/config.cfg"));
+            FillConfig(); // loadedCFG.Data
         }
         private void FillConfig()
         {
             table_config.DataSource = loadedCFG.Data.Lines;
-            table_config.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
-            table_config.Columns[1].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
-            table_config.Columns[2].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            for (int i = 0; i < table_config.Columns.Count; i++) {
+                var column = table_config.Columns[i];
+                if (i == table_config.Columns.Count - 1) column.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+                else column.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
+            }
         }
         private void FillConfig(CFGData config) {
             table_config.Rows.Clear();
@@ -67,7 +71,8 @@ namespace MWR_Config_Editor
 
         private void openDVARInfosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Utils.StartProcess(DVARS.DefaultFileName);
+            if (System.IO.File.Exists(DVARS.DefaultFileName))
+                Utils.StartProcess(DVARS.DefaultFileName);
         }
 
         private void table_config_CellToolTipTextNeeded(object sender, DataGridViewCellToolTipTextNeededEventArgs e)
@@ -75,8 +80,9 @@ namespace MWR_Config_Editor
             if ((e.RowIndex > -1) && (e.ColumnIndex == table_config.Columns["DVAR"].Index)) {
                 var sb = new StringBuilder();
                 var dvar = ((CFGLine)(table_config.Rows[e.RowIndex].DataBoundItem)).DVAR;
+                if (dvar is null) return;
                 if (dvar.Name != null) sb.AppendLine($"Name: {dvar.Name}");
-                if (dvar.Hex != null) sb.AppendLine($"HEX: {dvar.Hex}");
+                if (dvar.Hash != null) sb.AppendLine($"Hash: {dvar.Hash}");
                 if (dvar.Type != null) sb.AppendLine($"Type: {dvar.Type}");
                 if (dvar.MinValue != null) sb.AppendLine($"Min Value: {dvar.MinValue}");
                 if (dvar.MaxValue != null) sb.AppendLine($"Max Value: {dvar.MaxValue}");
@@ -88,16 +94,24 @@ namespace MWR_Config_Editor
 
         private void table_config_CellContextMenuStripNeeded(object sender, DataGridViewCellContextMenuStripNeededEventArgs e)
         {
-            table_config.CurrentCell = table_config.Rows[e.RowIndex].Cells[e.ColumnIndex];
-            if ((e.RowIndex > -1) && (e.ColumnIndex == table_config.Columns["DVAR"].Index)) {
-                e.ContextMenuStrip = menu_dvar;
+            if (e.RowIndex > -1) {
+                table_config.CurrentCell = table_config.Rows[e.RowIndex].Cells[e.ColumnIndex];
+                if ((e.ColumnIndex == table_config.Columns["DVAR"].Index)) e.ContextMenuStrip = menu_dvar;
             }
         }
 
         private void changeNameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             var dvar = (DVAR)table_config.SelectedCells[0].Value;
-            new UI.DVARInfo(dvar).Show();
+            var retDvar = UI.DVARInfo.ShowSync(dvar);
+            if (retDvar is null) return;
+            loadedCFG.Data.Lines[loadedCFG.Data.Lines.FindIndex(d => d.DVAR.Hash == dvar.Hash)].DVAR = retDvar;
+            // new UI.DVARInfo(dvar).Show();
+        }
+
+        private void table_config_DataError(object sender, DataGridViewDataErrorEventArgs e)
+        {
+
         }
     }
 }

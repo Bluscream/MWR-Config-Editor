@@ -4,19 +4,13 @@ using Newtonsoft.Json.Linq;
 using System.Collections.Generic;
 using System.IO;
 using MWR_Config_Editor;
+using System.Linq;
 
 namespace CFGParser.Classes
 {
     public static class DVARS
     {
         public const string DefaultFileName = "dvars.json";
-
-        public static List<DVAR> Get() {
-            return new List<DVAR>() {
-                new DVAR { Hex = "0x2A70777D", Type = "int" },
-                new DVAR { Hex = "0xFC60C821", Type = "int" },
-            };
-        }
         public static List<DVAR> Load(FileInfo File = null)
         {
             if (File is null) File = new FileInfo(DefaultFileName);
@@ -26,23 +20,36 @@ namespace CFGParser.Classes
                 return (List<DVAR>)serializer.Deserialize(file, typeof(List<DVAR>));
             }
         }
-        public static string Merge(List<DVAR> from, List<DVAR> to)
+        public static string Serialize(List<DVAR> list, Formatting formatting = Formatting.Indented)
+        {
+            return JsonConvert.SerializeObject(list, 
+                            formatting, 
+                            new JsonSerializerSettings { 
+                                NullValueHandling = NullValueHandling.Ignore
+            });
+        }
+        public static string MergeJson(List<DVAR> from, List<DVAR> to)
         {
             // var from_json = JObject.FromObject(from);
-            var from_json = JArray.Parse(JsonConvert.SerializeObject(from));
+            var from_json = JArray.Parse(Serialize(from));
             // var to_json = JObject.FromObject(to);
-            var to_json = JArray.Parse(JsonConvert.SerializeObject(to));
+            var to_json = JArray.Parse(Serialize(to));
             from_json.Merge(to_json, new JsonMergeSettings {
                 MergeArrayHandling = MergeArrayHandling.Union,
-                MergeNullValueHandling = MergeNullValueHandling.Merge
+                MergeNullValueHandling = MergeNullValueHandling.Ignore
             });
             return from_json.ToString();
+        }
+        public static string Merge(List<DVAR> from, List<DVAR> to)
+        {
+            var merged = from.Union(to).ToList();
+            return Serialize(merged);
         }
         public static void Update(CFGData config, FileInfo existing_file = null)
         {
             if (existing_file is null) existing_file = new FileInfo(DefaultFileName);
             if (!existing_file.Exists) {
-                existing_file.WriteAllText(JsonConvert.SerializeObject(Parse(config)));
+                existing_file.WriteAllText(Serialize(Parse(config))); return;
             }
             var existing = Load(existing_file);
             var _new  = Parse(config);
@@ -54,13 +61,12 @@ namespace CFGParser.Classes
             var dvars = new List<DVAR>();
             foreach (var item in config.Lines)
             {
-                var dvar = new DVAR();
-                dvar.Hex = item.DVAR.Hex;
-                if (item.Value.Contains(".") && float.TryParse(item.Value, out _)) dvar.Type = "float";
-                else if (int.TryParse(item.Value, out _)) dvar.Type = "int";
-                else if (bool.TryParse(item.Value, out _)) dvar.Type = "bool";
-                else dvar.Type = "string";
-                dvars.Add(dvar);
+                if (item.Value is null) continue;
+                if (item.Value.Contains(".") && float.TryParse(item.Value, out _)) item.DVAR.Type = "float";
+                else if (int.TryParse(item.Value, out _)) item.DVAR.Type = "int";
+                else if (bool.TryParse(item.Value, out _)) item.DVAR.Type = "bool";
+                else item.DVAR.Type = "string";
+                dvars.Add(item.DVAR);
             }
             return dvars;
         }
