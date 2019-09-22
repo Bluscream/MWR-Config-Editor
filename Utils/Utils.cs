@@ -141,10 +141,10 @@ namespace MWR_Config_Editor
             ProcessStartInfo proc = new ProcessStartInfo();
             proc.FileName = file;
             proc.Arguments = string.Join(" ", args);
-            Console.WriteLine(proc.FileName + " " + proc.Arguments);
+            Logger.Debug("Starting Process: {0} {1}", proc.FileName, proc.Arguments);
             if (workDir != null) {
                 proc.WorkingDirectory = workDir;
-                Console.WriteLine("WorkingDirectory: " + proc.WorkingDirectory);
+                Logger.Debug("Working Directory: {0}", proc.WorkingDirectory);
             }
             return Process.Start(proc);
         }

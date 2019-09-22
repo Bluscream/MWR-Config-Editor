@@ -41,12 +41,10 @@ namespace CFGParser.Classes
                         break;
                     default:
                         Value = line;
-                        Console.WriteLine("!Command.ToLower() == seta, set");
                         break;
                 }
             } else {
                 Comment = line;
-                Console.WriteLine("!Utils.CFGLinePattern.Match(line).Success");
             }
         }
     }

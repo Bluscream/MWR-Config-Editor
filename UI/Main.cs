@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,14 +12,38 @@ using CFGParser.Classes;
 
 namespace MWR_Config_Editor
 {
-    public partial class Main : Form
-    {
-        private CFGFile loadedCFG; // = new CFGFile();
+    public partial class Main : Form {
+        // private bool SaveAsNames = true;
+        private CFGFile loadedCFG = new CFGFile();
         public Main()
         {
             InitializeComponent();
-            loadedCFG = new CFGFile(new System.IO.FileInfo("../players2/config.cfg"));
-            FillConfig(); // loadedCFG.Data
+            if (Program.Arguments.ConfigFilePath != null) LoadConfig(Program.Arguments.ConfigFilePath);
+            else SearchConfig();
+        }
+        private void SearchConfig()
+        {
+            string[] searchPaths = { "", "players2", "../players2" };
+            string[] searchNames = { "config_mp.cfg", "config.cfg" };
+            foreach (var path in searchPaths) {
+                foreach (var name in searchNames)
+                {
+                    var fullPath = Path.Combine(path, name);
+                    Logger.Trace("Checking if {0} exists...", fullPath.Quote());
+                    if (File.Exists(fullPath)) {
+                        LoadConfig(fullPath);
+                    }
+                }
+            }
+        }
+        private void LoadConfig(string filePath) => LoadConfig(new FileInfo(filePath));
+        private void LoadConfig(FileInfo file) {
+            Logger.Debug("Trying to load config {0}...", file.FullName.Quote());
+            if (!file.Exists) return;
+            var newCFG = new CFGFile(file);
+            Logger.Info("Loaded config {0} with {1} lines.", file.Name.Quote(), newCFG.Data.Lines.Count);
+            loadedCFG = newCFG;
+            FillConfig();
         }
         private void FillConfig()
         {
@@ -39,13 +64,11 @@ namespace MWR_Config_Editor
         private void loadConfigToolStripMenuItem_Click(object sender, EventArgs e) {
             var pickedFile = Utils.pickFile(title: "Select the MWR config file", filter: "MWR config files|config*.cfg|All config files|*.cfg");
             if (pickedFile is null || !pickedFile.Exists) return;
-            loadedCFG = new CFGFile(pickedFile);
-            FillConfig(); // loadedCFG.Data
+            LoadConfig(pickedFile);
         }
 
-        private void saveConfigToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
+        private void saveConfigToolStripMenuItem_Click(object sender, EventArgs e) {
+            
         }
 
         private void openConfigExternallyToolStripMenuItem_Click(object sender, EventArgs e)
@@ -112,6 +135,13 @@ namespace MWR_Config_Editor
         private void table_config_DataError(object sender, DataGridViewDataErrorEventArgs e)
         {
 
+        }
+
+        private void saveAsNamesToolStripMenuItem_Click(object sender, EventArgs e) {
+            var selectedMenuItem = (ToolStripMenuItem)sender;
+            if (selectedMenuItem is null) return;
+            selectedMenuItem.Checked ^= true;
+            Program.Arguments.SaveAsNames = selectedMenuItem.Checked;
         }
     }
 }

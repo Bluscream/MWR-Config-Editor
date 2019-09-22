@@ -12,7 +12,8 @@ namespace CFGParser
         private const UInt32 FnvPrime = 0xB3CB2E29;private const UInt32 FnvOffsetBasis = 0x319712C3;
         public static string ToHashFnv1a32(this string text, Fnv1a32 hasher = null)
         {
-            var bytes_encoded = Encoding.ASCII.GetBytes(text.ToLowerInvariant()+'\x00');
+            text = text.Trim().ToLowerInvariant() + "\0";
+            var bytes_encoded = Encoding.ASCII.GetBytes(text);
             if (hasher is null) hasher = new Fnv1a32(fnvPrime: FnvPrime, fnvOffsetBasis: FnvOffsetBasis);
             var byte_hash = hasher.ComputeHash(bytes_encoded);
             var uint32 = BitConverter.ToUInt32(byte_hash, 0);

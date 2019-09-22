@@ -40,9 +40,9 @@ namespace CFGParser.Classes
             });
             return from_json.ToString();
         }
-        public static string Merge(List<DVAR> from, List<DVAR> to)
+        public static string Merge(List<DVAR> existing, List<DVAR> _new)
         {
-            var merged = from.Union(to).ToList();
+            var merged = existing.Union(_new).ToList();
             return Serialize(merged);
         }
         public static void Update(CFGData config, FileInfo existing_file = null)

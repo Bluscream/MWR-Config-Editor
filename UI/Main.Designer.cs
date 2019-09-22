@@ -35,6 +35,7 @@
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.saveAsNamesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openConfigExternallyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openToolConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -43,6 +44,8 @@
             this.table_config = new System.Windows.Forms.DataGridView();
             this.menu_dvar = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.changeNameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.status_text = new System.Windows.Forms.ToolStripStatusLabel();
+            this.status.SuspendLayout();
             this.menu_main.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.table_config)).BeginInit();
             this.menu_dvar.SuspendLayout();
@@ -50,6 +53,8 @@
             // 
             // status
             // 
+            this.status.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.status_text});
             this.status.Location = new System.Drawing.Point(0, 428);
             this.status.Name = "status";
             this.status.Size = new System.Drawing.Size(800, 22);
@@ -71,7 +76,8 @@
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.loadConfigToolStripMenuItem,
-            this.saveConfigToolStripMenuItem});
+            this.saveConfigToolStripMenuItem,
+            this.saveAsNamesToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(39, 21);
             this.fileToolStripMenuItem.Text = "File";
@@ -79,16 +85,25 @@
             // loadConfigToolStripMenuItem
             // 
             this.loadConfigToolStripMenuItem.Name = "loadConfigToolStripMenuItem";
-            this.loadConfigToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.loadConfigToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.loadConfigToolStripMenuItem.Text = "Load Config";
             this.loadConfigToolStripMenuItem.Click += new System.EventHandler(this.loadConfigToolStripMenuItem_Click);
             // 
             // saveConfigToolStripMenuItem
             // 
             this.saveConfigToolStripMenuItem.Name = "saveConfigToolStripMenuItem";
-            this.saveConfigToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.saveConfigToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.saveConfigToolStripMenuItem.Text = "Save Config";
             this.saveConfigToolStripMenuItem.Click += new System.EventHandler(this.saveConfigToolStripMenuItem_Click);
+            // 
+            // saveAsNamesToolStripMenuItem
+            // 
+            this.saveAsNamesToolStripMenuItem.Checked = true;
+            this.saveAsNamesToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.saveAsNamesToolStripMenuItem.Name = "saveAsNamesToolStripMenuItem";
+            this.saveAsNamesToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.saveAsNamesToolStripMenuItem.Text = "Save as Names";
+            this.saveAsNamesToolStripMenuItem.Click += new System.EventHandler(this.saveAsNamesToolStripMenuItem_Click);
             // 
             // helToolStripMenuItem
             // 
@@ -161,6 +176,11 @@
             this.changeNameToolStripMenuItem.Text = "Change Info";
             this.changeNameToolStripMenuItem.Click += new System.EventHandler(this.changeNameToolStripMenuItem_Click);
             // 
+            // status_text
+            // 
+            this.status_text.Name = "status_text";
+            this.status_text.Size = new System.Drawing.Size(0, 17);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -173,6 +193,8 @@
             this.MainMenuStrip = this.menu_main;
             this.Name = "Main";
             this.Text = "Call of Duty: MWR Config Editor";
+            this.status.ResumeLayout(false);
+            this.status.PerformLayout();
             this.menu_main.ResumeLayout(false);
             this.menu_main.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.table_config)).EndInit();
@@ -197,6 +219,8 @@
         private System.Windows.Forms.ToolStripMenuItem openDVARInfosToolStripMenuItem;
         private System.Windows.Forms.ContextMenuStrip menu_dvar;
         private System.Windows.Forms.ToolStripMenuItem changeNameToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem saveAsNamesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripStatusLabel status_text;
     }
 }
 
