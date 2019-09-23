@@ -1,0 +1,9713 @@
+[
+  {
+    "Hash": "0x2A70777D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFC60C821",
+    "Name": "con_gameMsgWindow0MsgTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCF9068E8",
+    "Name": "con_gameMsgWindow0LineCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9CE586D",
+    "Name": "con_gameMsgWindow0ScrollTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8E96CE41",
+    "Name": "con_gameMsgWindow0FadeInTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x12C660",
+    "Name": "con_gameMsgWindow0FadeOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x823D1218",
+    "Name": "con_gameMsgWindow1MsgTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x347799E1",
+    "Name": "con_gameMsgWindow1LineCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEF8F404C",
+    "Name": "con_gameMsgWindow1ScrollTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x683726A0",
+    "Name": "con_gameMsgWindow1FadeInTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x80D450D9",
+    "Name": "con_gameMsgWindow1FadeOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB167713",
+    "Name": "con_gameMsgWindow2MsgTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3CDDAFDA",
+    "Name": "con_gameMsgWindow2LineCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAF76EE8F",
+    "Name": "con_gameMsgWindow2ScrollTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x550FC2C3",
+    "Name": "con_gameMsgWindow2FadeInTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3160F892",
+    "Name": "con_gameMsgWindow2FadeOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF8425ECA",
+    "Name": "con_gameMsgWindow3MsgTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC8C34D13",
+    "Name": "con_gameMsgWindow3LineCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x81745BEE",
+    "Name": "con_gameMsgWindow3ScrollTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC1EE81E2",
+    "Name": "con_gameMsgWindow3FadeInTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8B762F4B",
+    "Name": "con_gameMsgWindow3FadeOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x57727F87",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBADCEDD6",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3CF7AB75",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4D4FADFD",
+    "Name": "con_gameMsgWindow0Filter",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xCCDAD8FC",
+    "Name": "con_gameMsgWindow1Filter",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xEDF26B1F",
+    "Name": "con_gameMsgWindow2Filter",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x360CA25E",
+    "Name": "con_gameMsgWindow3Filter",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xBC3E3CAE",
+    "Name": "sensitivity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD722A9F0",
+    "Name": "cl_freelook",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDB9118C7",
+    "Name": "ui_mousePitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x226A6F8F",
+    "Name": "m_pitch",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9B8E6AB9",
+    "Name": "m_filter",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x64A1942",
+    "Name": "cl_mouseAccel",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3D41228E",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x706663C2",
+    "Name": "com_recommendedSet",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x623EFE27",
+    "Name": "r_aspectRatio",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6012A6FF",
+    "Name": "r_vsync",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF841194F",
+    "Name": "r_texFilterAnisoMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x168987A1",
+    "Name": "r_texFilterAnisoMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB43FE869",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x5BFB3A52",
+    "Name": "r_monitor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2950CB6D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8BF035B2",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x248128D1",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x94D8097A",
+    "Name": "ragdoll_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1536D404",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x60D0FE59",
+    "Name": "r_lodScaleSkinned",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x763D0498",
+    "Name": "r_lodBiasSkinned",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53E4E5E8",
+    "Name": "r_lodScaleRigid",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCFCBD9D9",
+    "Name": "r_lodBiasRigid",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5ED9EB0B",
+    "Name": "r_drawWater",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x340A4183",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x38B8F0E2",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA42A64D5",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x59136004",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBD27741A",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAA43BEFB",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x99435B40",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE6D365B0",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE6B7FE18",
+    "Name": "r_picmip",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x74AC4725",
+    "Name": "r_picmip_bump",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5AC2DFA2",
+    "Name": "r_picmip_spec",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7C8ED14B",
+    "Name": "sm_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3D8883E",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4A2D6B61",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x559BE264",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7B0FAEDC",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4996A1BD",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBC06745C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA88E0023",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2A70F30B",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4675958A",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x70BF1633",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x78FF9C00",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFD7E2506",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2CF72D9E",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xED3C2D60",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFA4A1830",
+    "Name": "sys_configureGHz",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x12CEDC73",
+    "Name": "sys_sysMB",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC89E1B27",
+    "Name": "sys_gpu",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2198C429",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x62D1973C",
+    "Name": "sys_configSum",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA60A8932",
+    "Name": "in_mouse",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAD644D28",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7737526D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCFDCB2A2",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x99B53C25",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x840CF0FB",
+    "Name": "net_noudp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB7F1FBE9",
+    "Name": "net_socksEnabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3C79671",
+    "Name": "net_socksServer",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x668BF7D",
+    "Name": "net_socksPort",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x95B1DD0A",
+    "Name": "net_socksUsername",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x40D0B20B",
+    "Name": "net_socksPassword",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x717F82B3",
+    "Name": "vid_xpos",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCB3E6EFA",
+    "Name": "vid_ypos",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6E536C59",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF5470D48",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x72C6D8D9",
+    "Name": "r_fullscreen",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6613E175",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x45CB3517",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x723BC97A",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFAFC5B6C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2F6F0B0F",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x45316582",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x86312B1F",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17C2AE01",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA616FEE4",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x16BBB1A9",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBFCAFCCC",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB2F2CF5E",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x40EDBD05",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCAB61640",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3B3B7AEF",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3FB671E7",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA05F78FB",
+    "Name": "r_aaSamples",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8EBF1CA1",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xDB441A69",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC30551CC",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7152667A",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x118929AD",
+    "Name": "r_mode",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDB27C739",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE02B7F5B",
+    "Name": "r_autopriority",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1E31396E",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x851270A4",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE267343F",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x0F446496",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6127185A",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xED8ABFD3",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x60C080AA",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x905EA57E",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2BEBA78E",
+    "Name": "m_yaw",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCAFB8AA2",
+    "Name": "m_forward",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4E6A8832",
+    "Name": "m_side",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD251F533",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAF2D07A4",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE8241C5A",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEDC414A7",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6136FCE9",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3147A070",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x24767A95",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA7772778",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF30AAE29",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x72EF1FA6",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3E0E201C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7E58C449",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDA419523",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8BC24AD5",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x60C7C2D8",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9FE57D1A",
+    "Name": "cg_cursorHints",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3B0556F0",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x38620624",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6E02961D",
+    "Name": "cg_drawFPS",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF679C301",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7B65FC79",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8229DB48",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE3BEA85C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x89334ECD",
+    "Name": "cg_headIconMinScreenRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB82F37A1",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x01F175D6",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD9C4AFA7",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB3F841D6",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x03463A2C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x19C0330C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x99836A85",
+    "Name": "cg_hudGrenadeIconMaxRangeFrag",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6EC78E7F",
+    "Name": "cg_hudGrenadeIconMaxRangeFlash",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB14F2829",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDF080401",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x991C3A57",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9433AF32",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB566056B",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x200D6F9B",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC5EB9F8E",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x21AF3757",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAF471E4F",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF65901B9",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD44A84B4",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xADBD3D97",
+    "Name": "cg_viewZSmoothingMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA74BB079",
+    "Name": "cg_viewZSmoothingMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE085BC20",
+    "Name": "cg_viewZSmoothingTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x92FFAB1B",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x670DB859",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB56C6555",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5A143154",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x888EEAAC",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1AE0FE7C",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x09EE24FE",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2450F111",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x875190A6",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF5CD7D9D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x73CF4C3D",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA1091BAF",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x0D663B1F",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5135BF00",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBB02D11B",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x625731EB",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF5FFCFBE",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9B1EF955",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB0295ACF",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xC7A7BE69",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x11DC3894",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x763A08A6",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x0D39953A",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3F82311",
+    "Name": "ai_ShowCanshootChecks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9DD84CF1",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8E82E2BA",
+    "Name": "actionSlotsHide",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD9AF1F01",
+    "Name": "activeAction",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x39D50ADF",
+    "Name": "ai_corpseCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA0E3D389",
+    "Name": "ammoCounterHide",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF417DD2",
+    "Name": "authPort",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x75EB4EE1",
+    "Name": "authServerName",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8468CAE4",
+    "Name": "bg_aimSpreadMoveSpeedThreshold",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC4916B87",
+    "Name": "bg_bobAmplitudeDucked",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4E46ACE1",
+    "Name": "bg_bobAmplitudeProne",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2BC0F7AD",
+    "Name": "bg_bobAmplitudeSprinting",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xBCA94833",
+    "Name": "bg_bobAmplitudeStanding",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xEC602942",
+    "Name": "bg_bobMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC65ADACE",
+    "Name": "bg_fallDamageMaxHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA4F52AF0",
+    "Name": "bg_fallDamageMinHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD5FCF977",
+    "Name": "bg_foliagesnd_fastinterval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x487C83",
+    "Name": "bg_foliagesnd_maxspeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF4C2FCBD",
+    "Name": "bg_foliagesnd_minspeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7AFB57A",
+    "Name": "bg_foliagesnd_resetinterval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD5875018",
+    "Name": "bg_foliagesnd_slowinterval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x45D27431",
+    "Name": "bg_ladder_yawcap",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x76D5AB69",
+    "Name": "bg_legYawTolerance",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x65B799BD",
+    "Name": "bg_maxGrenadeIndicatorSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEEB71BCD",
+    "Name": "bg_prone_yawcap",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1722F86A",
+    "Name": "bg_shock_lookControl",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC1BCF7CE",
+    "Name": "bg_shock_lookControl_fadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCB7FB1E8",
+    "Name": "bg_shock_lookControl_maxpitchspeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3812B491",
+    "Name": "bg_shock_lookControl_maxyawspeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x22D13089",
+    "Name": "bg_shock_lookControl_mousesensitivityscale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x15210989",
+    "Name": "bg_shock_movement",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3C6B825",
+    "Name": "bg_shock_screenBlurBlendFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x32D2F383",
+    "Name": "bg_shock_screenBlurBlendTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xAB919F05",
+    "Name": "bg_shock_screenFlashShotFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x98F66C42",
+    "Name": "bg_shock_screenFlashWhiteFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3418316E",
+    "Name": "bg_shock_screenType",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x5C34AC41",
+    "Name": "bg_shock_sound",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB766F6A0",
+    "Name": "bg_shock_soundDryLevel",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA15F1506",
+    "Name": "bg_shock_soundEnd",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x5088D0AC",
+    "Name": "bg_shock_soundEndAbort",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x96A9A6D5",
+    "Name": "bg_shock_soundFadeInTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5FF7B514",
+    "Name": "bg_shock_soundFadeOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x525FF3B5",
+    "Name": "bg_shock_soundLoop",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6FF0B587",
+    "Name": "bg_shock_soundLoopEndDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x30591AE",
+    "Name": "bg_shock_soundLoopFadeTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7EF91DC4",
+    "Name": "bg_shock_soundLoopSilent",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD8F392F5",
+    "Name": "bg_shock_soundModEndDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x693EFB7E",
+    "Name": "bg_shock_soundRoomType",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x71A6A1A9",
+    "Name": "bg_shock_soundWetLevel",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x953B1D1E",
+    "Name": "bg_shock_viewKickFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2269A698",
+    "Name": "bg_shock_viewKickPeriod",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x27EAB9A5",
+    "Name": "bg_shock_viewKickRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC31DF645",
+    "Name": "bg_shock_volume_ambient",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF1DE55BC",
+    "Name": "bg_shock_volume_announcer",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x2AC281F2",
+    "Name": "bg_shock_volume_auto",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB1289D90",
+    "Name": "bg_shock_volume_auto2",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xDBAD1CB4",
+    "Name": "bg_shock_volume_auto2d",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD8701106",
+    "Name": "bg_shock_volume_autodog",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x882BABC5",
+    "Name": "bg_shock_volume_body",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xBDB9A7B3",
+    "Name": "bg_shock_volume_body2d",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9C927B09",
+    "Name": "bg_shock_volume_bulletimpact",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8C78DC1C",
+    "Name": "bg_shock_volume_bulletwhizby",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x71384D38",
+    "Name": "bg_shock_volume_effects1",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x2B4294EB",
+    "Name": "bg_shock_volume_effects2",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4E6871FB",
+    "Name": "bg_shock_volume_element",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8873AE4E",
+    "Name": "bg_shock_volume_hurt",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE9F00B90",
+    "Name": "bg_shock_volume_item",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x66A992B0",
+    "Name": "bg_shock_volume_local",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD1212822",
+    "Name": "bg_shock_volume_local2",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xAE36EE2E",
+    "Name": "bg_shock_volume_menu",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x13AEDDF9",
+    "Name": "bg_shock_volume_mission",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5BAD488C",
+    "Name": "bg_shock_volume_music",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB04E4A67",
+    "Name": "bg_shock_volume_musicnopause",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3ED087DE",
+    "Name": "bg_shock_volume_nonshock",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xBB73AC46",
+    "Name": "bg_shock_volume_physics",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x736A5757",
+    "Name": "bg_shock_volume_player1",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB9600FA4",
+    "Name": "bg_shock_volume_player2",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB9726E7C",
+    "Name": "bg_shock_volume_reload",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x2A8311DA",
+    "Name": "bg_shock_volume_reload2d",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD589ED8F",
+    "Name": "bg_shock_volume_shellshock",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD5DA8C75",
+    "Name": "bg_shock_volume_vehicle",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x16C6B2A1",
+    "Name": "bg_shock_volume_vehiclelimited",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4770C91B",
+    "Name": "bg_shock_volume_voice",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF063689F",
+    "Name": "bg_shock_volume_weapon",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x49CCABA9",
+    "Name": "bg_shock_volume_weapon2d",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5655CC22",
+    "Name": "bg_swingSpeed",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6E64E452",
+    "Name": "bg_viewKickMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8035F82C",
+    "Name": "bg_viewKickMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD94F73ED",
+    "Name": "bg_viewKickRandom",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB35A48DE",
+    "Name": "bg_viewKickScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x90FCB619",
+    "Name": "bullet_penetrationMinFxDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x678C3298",
+    "Name": "cg_airstrikeKillCamCloseXYDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6F6A078B",
+    "Name": "cg_airstrikeKillCamCloseZDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x62AEDFEF",
+    "Name": "cg_airstrikeKillCamDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCD7CE259",
+    "Name": "cg_airstrikeKillCamFarBlur",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5724BB",
+    "Name": "cg_airstrikeKillCamFarBlurDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x57B4DAC1",
+    "Name": "cg_airstrikeKillCamFarBlurStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2C174942",
+    "Name": "cg_airstrikeKillCamFov",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFB7030BC",
+    "Name": "cg_airstrikeKillCamNearBlur",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBE0F6B73",
+    "Name": "cg_airstrikeKillCamNearBlurEnd",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x900C819C",
+    "Name": "cg_airstrikeKillCamNearBlurStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD281B0D2",
+    "Name": "cg_blood",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x87318196",
+    "Name": "cg_centertime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC219DBE9",
+    "Name": "cg_chatHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5958BD23",
+    "Name": "cg_chatTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x69CC0FB8",
+    "Name": "cg_connectionIconSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB33543",
+    "Name": "cg_constantSizeHeadIcons",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3B5CA248",
+    "Name": "cg_crosshairAlpha",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF57E332A",
+    "Name": "cg_crosshairAlphaMin",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB6256371",
+    "Name": "cg_crosshairDynamic",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x525F11B3",
+    "Name": "cg_crosshairEnemyColor",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x58F64BB7",
+    "Name": "cg_debug_overlay_viewport",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCBD68B3E",
+    "Name": "cg_debugevents",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x630842D",
+    "Name": "cg_debugInfoCornerOffset",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB1AED8D8",
+    "Name": "cg_debugposition",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4A86EE71",
+    "Name": "cg_descriptiveText",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA7330EAE",
+    "Name": "cg_draw2D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x75C4C1F3",
+    "Name": "cg_drawBreathHint",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE0219494",
+    "Name": "cg_drawCrosshair",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x65916340",
+    "Name": "cg_drawCrosshairNames",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCD45DBDC",
+    "Name": "cg_drawCrosshairNamesPosX",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x609E9E6D",
+    "Name": "cg_drawCrosshairNamesPosY",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8E70163B",
+    "Name": "cg_drawFriendlyNames",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD648A10C",
+    "Name": "cg_drawGun",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2DC223C",
+    "Name": "cg_drawHealth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE56208C6",
+    "Name": "cg_drawLagometer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x423D48F3",
+    "Name": "cg_drawMaterial",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x61A2D88E",
+    "Name": "cg_drawpaused",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x76D03CD2",
+    "Name": "cg_drawScriptUsage",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x81D8E602",
+    "Name": "cg_drawShellshock",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3125274",
+    "Name": "cg_drawSnapshot",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAA9C6071",
+    "Name": "cg_drawSpectatorMessages",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9313D546",
+    "Name": "cg_drawThroughWalls",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x51D8B094",
+    "Name": "cg_dumpAnims",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF9CCFF34",
+    "Name": "cg_enemyNameFadeIn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1E173BC5",
+    "Name": "cg_enemyNameFadeOut",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB3D2598A",
+    "Name": "cg_errordecay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x596DBE2E",
+    "Name": "cg_firstPersonTracerChance",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6670A4BB",
+    "Name": "cg_footsteps",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8572B2C7",
+    "Name": "cg_fov",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF042D06D",
+    "Name": "cg_fovMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x79A1090F",
+    "Name": "cg_fovScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEE4F0FD9",
+    "Name": "cg_friendlyNameFadeIn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD6B9EF10",
+    "Name": "cg_friendlyNameFadeOut",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF6DE6C83",
+    "Name": "cg_gun_move_f",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x962EEAB0",
+    "Name": "cg_gun_move_minspeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEB54DB7",
+    "Name": "cg_gun_move_r",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB5B7C4BF",
+    "Name": "cg_gun_move_rate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x747FBC0",
+    "Name": "cg_gun_move_u",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x254E6EF8",
+    "Name": "cg_gun_ofs_f",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3D25502C",
+    "Name": "cg_gun_ofs_r",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA9CC8D9B",
+    "Name": "cg_gun_ofs_u",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7AC182B",
+    "Name": "cg_gun_x",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7453559A",
+    "Name": "cg_gun_y",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE0FA9309",
+    "Name": "cg_gun_z",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x99A834E7",
+    "Name": "cg_heliKillCamDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCB567B71",
+    "Name": "cg_heliKillCamFarBlur",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA09F3C3",
+    "Name": "cg_heliKillCamFarBlurDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB55D52F9",
+    "Name": "cg_heliKillCamFarBlurStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x69250EBA",
+    "Name": "cg_heliKillCamFov",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x85CAA344",
+    "Name": "cg_heliKillCamNearBlur",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x43A5402B",
+    "Name": "cg_heliKillCamNearBlurEnd",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x568552C4",
+    "Name": "cg_heliKillCamNearBlurStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x303FF3F5",
+    "Name": "cg_heliKillCamZDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2EDB737E",
+    "Name": "cg_hudChatIntermissionPosition",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x423F9756",
+    "Name": "cg_hudChatPosition",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x3463A2C",
+    "Name": "cg_hudDamageIconOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE1DA0CAC",
+    "Name": "cg_hudDamageIconTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFE263EB",
+    "Name": "cg_hudGrenadeIconHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3F83BB07",
+    "Name": "cg_hudGrenadeIconMaxHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEDAF9171",
+    "Name": "cg_hudGrenadeIconOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x43555892",
+    "Name": "cg_hudGrenadeIconWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3BE6E623",
+    "Name": "cg_hudGrenadePointerHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD57AB040",
+    "Name": "cg_hudGrenadePointerPivot",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x36BF5A53",
+    "Name": "cg_hudGrenadePointerPulseFreq",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8384A38F",
+    "Name": "cg_hudGrenadePointerPulseMax",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x65A7F501",
+    "Name": "cg_hudGrenadePointerPulseMin",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE155793A",
+    "Name": "cg_hudGrenadePointerWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x34F2C672",
+    "Name": "cg_hudlegacysplitscreenscale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD937CD0F",
+    "Name": "cg_hudMapBorderWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9852BA25",
+    "Name": "cg_hudMapFriendlyHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E7DAFEC",
+    "Name": "cg_hudMapFriendlyWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA28F8D9",
+    "Name": "cg_hudMapPlayerHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1EEEC870",
+    "Name": "cg_hudMapPlayerWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAABE3CA1",
+    "Name": "cg_hudMapRadarLineThickness",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7D05DCB",
+    "Name": "cg_hudObjectiveTextScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE532658E",
+    "Name": "cg_hudProneY",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFED6B563",
+    "Name": "cg_hudSayPosition",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xA994C90F",
+    "Name": "cg_hudsplitscreencompassscale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5829D331",
+    "Name": "cg_hudsplitscreenstancescale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7F0FDE27",
+    "Name": "cg_hudStanceFlash",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x1F175D6",
+    "Name": "cg_hudStanceHintPrints",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCA87B610",
+    "Name": "cg_hudVotePosition",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE0D1FD2D",
+    "Name": "cg_invalidCmdHintBlinkInterval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x654CAC43",
+    "Name": "cg_laserEndOffset",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x254507AA",
+    "Name": "cg_laserFlarePct",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xAAC1115",
+    "Name": "cg_laserForceOn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E931557",
+    "Name": "cg_laserLight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x862026B5",
+    "Name": "cg_laserLightBeginOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF42BF673",
+    "Name": "cg_laserLightBodyTweak",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5EB7A7BD",
+    "Name": "cg_laserLightEndOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2AFA23D7",
+    "Name": "cg_laserLightRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x27E9C8F9",
+    "Name": "cg_laserRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB4006D4E",
+    "Name": "cg_laserRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x295998ED",
+    "Name": "cg_laserRangePlayer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x887A573C",
+    "Name": "cg_nopredict",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x83850F58",
+    "Name": "cg_overheadIconSize",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA987AD15",
+    "Name": "cg_overheadNamesFarDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1C7E68F",
+    "Name": "cg_overheadNamesFarScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4B6CC5E9",
+    "Name": "cg_overheadNamesFont",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB6C79C09",
+    "Name": "cg_overheadNamesGlow",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB9EA9484",
+    "Name": "cg_overheadNamesMaxDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x981AB218",
+    "Name": "cg_overheadNamesNearDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE8CF7D07",
+    "Name": "cg_overheadNamesSize",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD066B695",
+    "Name": "cg_overheadRankSize",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4DFE9E43",
+    "Name": "cg_predictItems",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1DC705E9",
+    "Name": "cg_scoreboardBannerHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6424A8F1",
+    "Name": "cg_scoreboardFont",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9A97E49E",
+    "Name": "cg_scoreboardHeaderFontScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF7CCE025",
+    "Name": "cg_scoreboardHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x95496D40",
+    "Name": "cg_scoreboardItemHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x14BCF643",
+    "Name": "cg_scoreboardMyColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xC9618C2E",
+    "Name": "cg_scoreboardPingGraph",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6A77C9E5",
+    "Name": "cg_scoreboardPingHeight",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8F922BFF",
+    "Name": "cg_scoreboardPingText",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1F30502C",
+    "Name": "cg_scoreboardPingWidth",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x71EA14CF",
+    "Name": "cg_scoreboardRankFontScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4CDE0595",
+    "Name": "cg_scoreboardScrollStep",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEFEB0342",
+    "Name": "cg_scoreboardTextOffset",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF8FF65EC",
+    "Name": "cg_scoreboardWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7C398354",
+    "Name": "cg_ScoresPing_BgColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDEE2941F",
+    "Name": "cg_ScoresPing_HighColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2D69CE7B",
+    "Name": "cg_ScoresPing_Interval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFE550A95",
+    "Name": "cg_ScoresPing_LowColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xFDE75CAA",
+    "Name": "cg_ScoresPing_MaxBars",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAE2B8D8D",
+    "Name": "cg_ScoresPing_MedColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x70D90FD7",
+    "Name": "cg_showmiss",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF46B6E47",
+    "Name": "cg_subtitles",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEFCA2701",
+    "Name": "cg_subtitleWidthStandard",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF1C79441",
+    "Name": "cg_subtitleWidthWidescreen",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x75BA7B5C",
+    "Name": "cg_teamChatsOnly",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEC79B3EE",
+    "Name": "cg_thirdPerson",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF0C2C95F",
+    "Name": "cg_thirdPersonAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2BC51E1",
+    "Name": "cg_thirdPersonRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x83A06279",
+    "Name": "cg_tracerchance",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8D8AF7EF",
+    "Name": "cg_tracerlength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCDD4421B",
+    "Name": "cg_tracerScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x36D8899E",
+    "Name": "cg_tracerScaleDistRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE323B423",
+    "Name": "cg_tracerScaleMinDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x285F1CB9",
+    "Name": "cg_tracerScrewDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBEED0D6B",
+    "Name": "cg_tracerScrewRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC9507844",
+    "Name": "cg_tracerSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x54A8A375",
+    "Name": "cg_tracerwidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x35AFDD90",
+    "Name": "cg_voiceIconSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x757BDA24",
+    "Name": "cg_weaponHintsCoD1Style",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3EA133A7",
+    "Name": "cg_weaponleftbone",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x25EA54C4",
+    "Name": "cg_weaponrightbone",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6757B0E4",
+    "Name": "cg_youInKillCamSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x88AFE22E",
+    "Name": "cl_allowDownload",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xABE55816",
+    "Name": "cl_analog_attack_threshold",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x36848F92",
+    "Name": "cl_anglespeedkey",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3FE73358",
+    "Name": "cl_anonymous",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEE23E98E",
+    "Name": "cl_avidemo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFFAB0A96",
+    "Name": "cl_bypassMouseInput",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6488C403",
+    "Name": "cl_connectionAttempts",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5DA8DB7E",
+    "Name": "cl_connectTimeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4E2BDFD3",
+    "Name": "cl_forceavidemo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCA163C9B",
+    "Name": "cl_freezeDemo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE09552A9",
+    "Name": "cl_hudDrawsBehindUI",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCEBFFF62",
+    "Name": "cl_ingame",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4459F337",
+    "Name": "cl_maxPing",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4E41C464",
+    "Name": "cl_motdString",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x802A6BB2",
+    "Name": "cl_nodelta",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF89F9273",
+    "Name": "cl_noprint",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x58E43615",
+    "Name": "cl_paused",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC4EB2B74",
+    "Name": "cl_punkbuster",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x98498A74",
+    "Name": "cl_serverStatusResendTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3427A7B3",
+    "Name": "cl_showmouserate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3090577",
+    "Name": "cl_shownet",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDB78E18A",
+    "Name": "cl_shownuments",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA5A63FB4",
+    "Name": "cl_showSend",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2753B9F9",
+    "Name": "cl_showServerCommands",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x79684155",
+    "Name": "cl_showTimeDelta",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x76A574F7",
+    "Name": "cl_stanceHoldTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5A2E1B99",
+    "Name": "cl_talking",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEEC1F288",
+    "Name": "cl_timeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1F6CF223",
+    "Name": "cl_updateavailable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEFF1448F",
+    "Name": "cl_updatefiles",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD0EDD247",
+    "Name": "cl_updateoldversion",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x11B5D5E8",
+    "Name": "cl_updateversion",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x30160EBD",
+    "Name": "cl_voice",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC8668BD0",
+    "Name": "cl_wwwDownload",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFC123675",
+    "Name": "clientSideEffects",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x85FC5750",
+    "Name": "com_animCheck",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x50B84A05",
+    "Name": "com_filter_output",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x92500A36",
+    "Name": "com_introPlayed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF264C46C",
+    "Name": "com_maxfps",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4EFEDEE1",
+    "Name": "com_maxFrameTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4CA1FABD",
+    "Name": "com_playerProfile",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6E4AB4BB",
+    "Name": "com_statmon",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x14495F18",
+    "Name": "com_timescale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCC2CB043",
+    "Name": "compass",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x23F6CB50",
+    "Name": "compassClampIcons",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD677A865",
+    "Name": "compassCoords",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDCAB66B6",
+    "Name": "compassECoordCutoff",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x774B4404",
+    "Name": "compassEnemyFootstepEnabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5CA84F2",
+    "Name": "compassEnemyFootstepMaxRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x18724557",
+    "Name": "compassEnemyFootstepMaxZ",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC328557C",
+    "Name": "compassEnemyFootstepMinSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDCC04C2B",
+    "Name": "compassFriendlyHeight",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD18BF952",
+    "Name": "compassFriendlyWidth",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9B0DD580",
+    "Name": "compassMaxRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD1730839",
+    "Name": "compassMinRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x46B8D70E",
+    "Name": "compassMinRange",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE0D01E3A",
+    "Name": "compassObjectiveArrowHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53747F10",
+    "Name": "compassObjectiveArrowOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBDE48336",
+    "Name": "compassObjectiveArrowRotateDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x441A551B",
+    "Name": "compassObjectiveArrowWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x621F9F27",
+    "Name": "compassObjectiveDetailDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7C7FCA79",
+    "Name": "compassObjectiveDrawLines",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x817EDD2B",
+    "Name": "compassObjectiveHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3DD6D160",
+    "Name": "compassObjectiveIconHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2F9796C1",
+    "Name": "compassObjectiveIconWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEA64BEC7",
+    "Name": "compassObjectiveMaxHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCC3E7CAF",
+    "Name": "compassObjectiveMaxRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4CAF1A6A",
+    "Name": "compassObjectiveMinAlpha",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD4D91C83",
+    "Name": "compassObjectiveMinDistRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x610C9AC9",
+    "Name": "compassObjectiveMinHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2E946AC5",
+    "Name": "compassObjectiveNearbyDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9C50A683",
+    "Name": "compassObjectiveNumRings",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCBE066D3",
+    "Name": "compassObjectiveRingSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x65FA88D3",
+    "Name": "compassObjectiveRingTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFD60DEA6",
+    "Name": "compassObjectiveTextHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDAB18E39",
+    "Name": "compassObjectiveTextScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD0562252",
+    "Name": "compassObjectiveWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF61B0827",
+    "Name": "compassPlayerHeight",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB1C3C11E",
+    "Name": "compassPlayerWidth",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4D6441AF",
+    "Name": "compassRadarLineThickness",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x448C30B4",
+    "Name": "compassRadarPingFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x39714ABB",
+    "Name": "compassRadarUpdateTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4975EA0F",
+    "Name": "compassRotation",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9EE24FE",
+    "Name": "compassSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x64AD61FB",
+    "Name": "compassSoundPingFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x86DEF66",
+    "Name": "compassTickertapeStretch",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x88C384CA",
+    "Name": "con_default_console_filter",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8CB86230",
+    "Name": "con_errormessagetime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9A1C0693",
+    "Name": "con_gameMsgWindow0SplitscreenScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5BD43CD2",
+    "Name": "con_gameMsgWindow1SplitscreenScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x24DFD6F1",
+    "Name": "con_gameMsgWindow2SplitscreenScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x876353F0",
+    "Name": "con_gameMsgWindow3SplitscreenScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x978998D8",
+    "Name": "con_inputBoxColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x639A3FF3",
+    "Name": "con_inputHintBoxColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD5B28E21",
+    "Name": "con_matchPrefixOnly",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE1B037D7",
+    "Name": "con_minicon",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCB95BCD2",
+    "Name": "con_miniconlines",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x32540CAA",
+    "Name": "con_minicontime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7563E3DD",
+    "Name": "con_outputBarColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x1AF891",
+    "Name": "con_outputSliderColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xCD23AA18",
+    "Name": "con_outputWindowColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x7BAC5B89",
+    "Name": "con_typewriterColorBase",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x24CE63BD",
+    "Name": "con_typewriterColorGlowCheckpoint",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xCFE3EFEA",
+    "Name": "con_typewriterColorGlowCompleted",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB6E264D4",
+    "Name": "con_typewriterColorGlowFailed",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x956B9A0A",
+    "Name": "con_typewriterColorGlowUpdated",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x7BF46F47",
+    "Name": "customclass1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xC1EA2794",
+    "Name": "customclass2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x5542EA25",
+    "Name": "customclass3",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9B38A272",
+    "Name": "customclass4",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2E916503",
+    "Name": "customclass5",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x969A18A8",
+    "Name": "dedicated",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xC4724D65",
+    "Name": "developer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFE0CEDE5",
+    "Name": "developer_script",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xABB73484",
+    "Name": "didyouknow",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4A5FBE13",
+    "Name": "drew_notes",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF37D81C3",
+    "Name": "dynEnt_bulletForce",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E35560A",
+    "Name": "dynEnt_explodeForce",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x66F9F23F",
+    "Name": "dynEnt_explodeMaxEnts",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE7942700",
+    "Name": "dynEnt_explodeMinForce",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x27C9E653",
+    "Name": "dynEnt_explodeSpinScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x968906E3",
+    "Name": "dynEnt_explodeUpbias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3066D1C4",
+    "Name": "dynEntPieces_angularVelocity",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4259D246",
+    "Name": "dynEntPieces_impactForce",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17E3A12E",
+    "Name": "dynEntPieces_velocity",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF27A7AE8",
+    "Name": "fixedtime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF0F2D6B9",
+    "Name": "friction",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x99CF96E2",
+    "Name": "fs_basegame",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x59007111",
+    "Name": "fs_basepath",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xAFC2B443",
+    "Name": "fs_cdpath",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x14B04DD9",
+    "Name": "fs_copyfiles",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3C5C3B8",
+    "Name": "fs_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF9688FCF",
+    "Name": "fs_game",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB609C6EB",
+    "Name": "fs_homepath",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xFBFC926",
+    "Name": "fs_ignoreLocalized",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x51E0EF7D",
+    "Name": "fs_restrict",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF7F04D2A",
+    "Name": "g_allowvote",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x28DC5E6B",
+    "Name": "g_antilag",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17F3577C",
+    "Name": "g_banIPs",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xA13B0970",
+    "Name": "g_clonePlayerMaxVelocity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x71DA4FFC",
+    "Name": "g_compassShowEnemies",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3BC906A9",
+    "Name": "g_deadChat",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8F2FDE26",
+    "Name": "g_dropForwardSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x148FCCBB",
+    "Name": "g_dropHorzSpeedRand",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x115CA9BD",
+    "Name": "g_dropUpSpeedBase",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6D49AF39",
+    "Name": "g_dropUpSpeedRand",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8B8C71AD",
+    "Name": "g_gametype",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD079B4CF",
+    "Name": "g_log",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x1CC8FF60",
+    "Name": "g_logSync",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7BA06BB9",
+    "Name": "g_oldVoting",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA4DB26C",
+    "Name": "g_playerCollisionEjectSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1A8D3DF7",
+    "Name": "g_redCrosshairs",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x30986B0C",
+    "Name": "g_synchronousClients",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA345C989",
+    "Name": "g_useGear",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF5E8A269",
+    "Name": "g_useholdspawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC69214D7",
+    "Name": "g_voiceChatTalkingDuration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD29622B1",
+    "Name": "g_voteAbstainWeight",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x58E611B5",
+    "Name": "heli_barrelMaxVelocity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC5FBA47A",
+    "Name": "heli_barrelRotation",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF057056B",
+    "Name": "heli_barrelSlowdown",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8C464DB5",
+    "Name": "hiDef",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x531EF9AC",
+    "Name": "hud_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD911C48",
+    "Name": "hud_fade_ammodisplay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA71AEAAC",
+    "Name": "hud_fade_compass",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFB762580",
+    "Name": "hud_fade_offhand",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x21155C4A",
+    "Name": "hud_fade_stance",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7E637A3D",
+    "Name": "hud_fadeout_speed",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD663B1F",
+    "Name": "hud_health_pulserate_critical",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9234D11C",
+    "Name": "hudElemPausedBrightness",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1DD2F4FE",
+    "Name": "inertiaAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA8DFD7EE",
+    "Name": "inertiaDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC33AED23",
+    "Name": "inertiaMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEDE75101",
+    "Name": "jump_height",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB0A89EF5",
+    "Name": "jump_ladderPushVel",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3D232EBA",
+    "Name": "jump_slowdownEnable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7A8DD87E",
+    "Name": "jump_spreadAdd",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5DBF3C19",
+    "Name": "jump_stepSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6F40713C",
+    "Name": "koth_autodestroytime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6DF085DD",
+    "Name": "koth_capturetime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7686B28A",
+    "Name": "koth_delayPlayer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF5331A23",
+    "Name": "koth_destroytime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x58D88E67",
+    "Name": "koth_kothmode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x59AE8442",
+    "Name": "koth_spawnDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDCB736E2",
+    "Name": "koth_spawntime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x22433933",
+    "Name": "loc_forceEnglish",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE6602B7E",
+    "Name": "loc_language",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC2B33EAA",
+    "Name": "loc_translate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFD05837D",
+    "Name": "loc_warnings",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE4E61454",
+    "Name": "loc_warningsAsErrors",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8056C539",
+    "Name": "logfile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x290482EF",
+    "Name": "lowAmmoWarningColor1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6EFA3B3C",
+    "Name": "lowAmmoWarningColor2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD45ECBF0",
+    "Name": "lowAmmoWarningNoAmmoColor1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8E6913A3",
+    "Name": "lowAmmoWarningNoAmmoColor2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8FE36EB7",
+    "Name": "lowAmmoWarningNoReloadColor1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD5D92704",
+    "Name": "lowAmmoWarningNoReloadColor2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF3306044",
+    "Name": "lowAmmoWarningPulseFreq",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9B22EF10",
+    "Name": "lowAmmoWarningPulseMax",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xFA570D2E",
+    "Name": "lowAmmoWarningPulseMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x61F44723",
+    "Name": "mantle_check_angle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8332C4F2",
+    "Name": "mantle_check_radius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xBF1A279D",
+    "Name": "mantle_check_range",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9443D3BA",
+    "Name": "mantle_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9DB64FC2",
+    "Name": "mantle_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x35EC87BC",
+    "Name": "mantle_view_yawcap",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x86B15458",
+    "Name": "mapname",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xEF3F5C76",
+    "Name": "masterPort",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE6C8D9C5",
+    "Name": "masterServerName",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x787077E1",
+    "Name": "motd",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xBC6B312D",
+    "Name": "msg_dumpEnts",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3CDFCC34",
+    "Name": "msg_hudelemspew",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAA92F85A",
+    "Name": "msg_printEntityNums",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCE3A6324",
+    "Name": "name",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD6C5E15A",
+    "Name": "net_ip",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xC8E87BB3",
+    "Name": "net_lanauthorize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x41C897BB",
+    "Name": "net_noipx",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC0AB30C2",
+    "Name": "net_port",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x23220B08",
+    "Name": "net_profile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x480FF063",
+    "Name": "net_showprofile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAF787CF7",
+    "Name": "nextdemo",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9B2B368",
+    "Name": "nextmap",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xEA59D35B",
+    "Name": "nightVisionDisableEffects",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x14E217A1",
+    "Name": "nightVisionFadeInOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x843592D0",
+    "Name": "nightVisionPowerOnTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF19B6082",
+    "Name": "onlinegame",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7E8C1D4A",
+    "Name": "overrideNVGModelWithKnife",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x46AA339A",
+    "Name": "packetDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x100A5EE4",
+    "Name": "password",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xFE91D330",
+    "Name": "perk_bulletPenetrationMultiplier",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD8D0399A",
+    "Name": "perk_extraBreath",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x47E00CAA",
+    "Name": "perk_grenadeDeath",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x1C083A40",
+    "Name": "perk_parabolicAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x73CC6AF2",
+    "Name": "perk_parabolicIcon",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF92F66E9",
+    "Name": "perk_parabolicRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6C018B29",
+    "Name": "perk_sprintMultiplier",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8E202082",
+    "Name": "perk_weapRateMultiplier",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4A988E39",
+    "Name": "perk_weapReloadMultiplier",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE48E7811",
+    "Name": "perk_weapSpreadMultiplier",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF3ED2F84",
+    "Name": "player_adsExitDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x30DF15A3",
+    "Name": "player_backSpeedScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF2B1DE7A",
+    "Name": "player_breath_fire_delay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5936E459",
+    "Name": "player_breath_gasp_lerp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x535B24B2",
+    "Name": "player_breath_gasp_scale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x17349D3F",
+    "Name": "player_breath_gasp_time",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD07BBA23",
+    "Name": "player_breath_hold_lerp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x93566455",
+    "Name": "player_breath_hold_time",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x79EA41FB",
+    "Name": "player_breath_snd_delay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x38704AD5",
+    "Name": "player_breath_snd_lerp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x84841A00",
+    "Name": "player_burstFireCooldown",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCB7E72BA",
+    "Name": "player_debugHealth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x48F3E9C2",
+    "Name": "player_dmgtimer_flinchTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3081E5D0",
+    "Name": "player_dmgtimer_maxTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBE58EA1B",
+    "Name": "player_dmgtimer_minScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9F44D0C0",
+    "Name": "player_dmgtimer_stumbleTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF8EEBAB7",
+    "Name": "player_dmgtimer_timePerPoint",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x927E2DE3",
+    "Name": "player_footstepsThreshhold",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8CC81FDC",
+    "Name": "player_lean_rotate_crouch_left",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x99559247",
+    "Name": "player_lean_rotate_crouch_right",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEB86B0FB",
+    "Name": "player_lean_rotate_left",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA09BBB88",
+    "Name": "player_lean_rotate_right",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6B611625",
+    "Name": "player_lean_shift_crouch_left",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x13BF2B76",
+    "Name": "player_lean_shift_crouch_right",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x46AA62AA",
+    "Name": "player_lean_shift_left",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9166B4E1",
+    "Name": "player_lean_shift_right",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE5A35BCB",
+    "Name": "player_meleeChargeFriction",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEBF6A96C",
+    "Name": "player_meleeHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE633A6CC",
+    "Name": "player_meleeRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x35693D1D",
+    "Name": "player_meleeWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDF0E5E88",
+    "Name": "player_move_factor_on_torso",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x78B2CE29",
+    "Name": "player_moveThreshhold",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x532C11F",
+    "Name": "player_scopeExitOnDamage",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5A77BA81",
+    "Name": "player_spectateSpeedScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x80F484A3",
+    "Name": "player_sprintCameraBob",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7DDA5110",
+    "Name": "player_sprintForwardMinimum",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53505EDA",
+    "Name": "player_sprintMinTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9765E7FA",
+    "Name": "player_sprintRechargePause",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8417DE5A",
+    "Name": "player_sprintSpeedScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3C22BE05",
+    "Name": "player_sprintStrafeSpeedScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC5BE0CD0",
+    "Name": "player_sprintTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x799D61FD",
+    "Name": "player_strafeAnimCosAngle",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x73B4159F",
+    "Name": "player_strafeSpeedScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA1D22CA6",
+    "Name": "player_sustainAmmo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDF583C3A",
+    "Name": "player_turnAnims",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6D2BE39E",
+    "Name": "player_view_pitch_down",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9F8ACF39",
+    "Name": "player_view_pitch_up",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x24525655",
+    "Name": "protocol",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8C244BAA",
+    "Name": "r_aaAlpha",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x5803F27",
+    "Name": "r_altModelLightingUpdate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x221B677",
+    "Name": "r_blur",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x370C36DF",
+    "Name": "r_brightness",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4088FE9B",
+    "Name": "r_cacheModelLighting",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x98F81880",
+    "Name": "r_cacheSModelLighting",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2381AFE7",
+    "Name": "r_clear",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB797232",
+    "Name": "r_clearColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD06097D0",
+    "Name": "r_clearColor2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x79FA2A77",
+    "Name": "r_colorMap",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x48045574",
+    "Name": "r_contrast",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x219244B6",
+    "Name": "r_customMode",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9A5D9976",
+    "Name": "r_debugShader",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xAF58BDEB",
+    "Name": "r_desaturation",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAD5EB4CF",
+    "Name": "r_detail",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x285B76ED",
+    "Name": "r_diffuseColorScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFF892041",
+    "Name": "r_displayRefresh",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x7BE95AF5",
+    "Name": "r_distortion",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x49EC49C1",
+    "Name": "r_dlightLimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x232CFE15",
+    "Name": "r_dof_bias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x58E082E5",
+    "Name": "r_dof_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCFE09D08",
+    "Name": "r_dof_farBlur",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF0F8FD4E",
+    "Name": "r_dof_farEnd",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4C53F161",
+    "Name": "r_dof_farStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4209E975",
+    "Name": "r_dof_nearBlur",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB2477B8B",
+    "Name": "r_dof_nearEnd",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDED03624",
+    "Name": "r_dof_nearStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x93129458",
+    "Name": "r_dof_tweak",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x20C0B129",
+    "Name": "r_dof_viewModelEnd",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x54A02C66",
+    "Name": "r_dof_viewModelStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB2277BFA",
+    "Name": "r_drawDecals",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF913E44E",
+    "Name": "r_drawSun",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA52F8CAC",
+    "Name": "r_envMapExponent",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3346874",
+    "Name": "r_envMapMaxIntensity",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE0BF1D3A",
+    "Name": "r_envMapMinIntensity",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x662EA743",
+    "Name": "r_envMapOverride",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x81F7DA98",
+    "Name": "r_envMapSpecular",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAA1EEA68",
+    "Name": "r_envMapSunIntensity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x744E5A01",
+    "Name": "r_fastSkin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAAE4DCD",
+    "Name": "r_filmTweakBrightness",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x50BF6B86",
+    "Name": "r_filmTweakContrast",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xEB5AAD8F",
+    "Name": "r_filmTweakDarkTint",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x53526679",
+    "Name": "r_filmTweakDesaturation",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x43946F25",
+    "Name": "r_filmTweakEnable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4A53348E",
+    "Name": "r_filmTweakInvert",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFA2D0F05",
+    "Name": "r_filmTweakLightTint",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB460D96C",
+    "Name": "r_filmUseTweaks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB1086364",
+    "Name": "r_floatz",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x48A28030",
+    "Name": "r_fog",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7C130D5C",
+    "Name": "r_forceLod",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD21FD99F",
+    "Name": "r_fullbright",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF74A91C1",
+    "Name": "r_gamma",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xEC995285",
+    "Name": "r_glow",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x39E2E0AC",
+    "Name": "r_glow_allowed_script_forced",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4EA3E8C7",
+    "Name": "r_glowTweakBloomCutoff",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9BBEF56F",
+    "Name": "r_glowTweakBloomDesaturation",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE2DD3A05",
+    "Name": "r_glowTweakBloomIntensity0",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x49C050",
+    "Name": "r_glowTweakEnable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9431DF79",
+    "Name": "r_glowTweakRadius0",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA250FB39",
+    "Name": "r_glowUseTweaks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF4C7E23B",
+    "Name": "r_gpuSync",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF7E037D",
+    "Name": "r_highLodDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAD428A16",
+    "Name": "r_ignore",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x16F68266",
+    "Name": "r_ignorehwgamma",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x99BB0904",
+    "Name": "r_lightMap",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x96F90F94",
+    "Name": "r_lightTweakAmbient",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1F2E1A39",
+    "Name": "r_lightTweakAmbientColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE2048F08",
+    "Name": "r_lightTweakDiffuseFraction",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x99C56271",
+    "Name": "r_lightTweakSunColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x33AD316F",
+    "Name": "r_lightTweakSunDiffuseColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE0F3A871",
+    "Name": "r_lightTweakSunDirection",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD9C633A",
+    "Name": "r_lightTweakSunLight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E3B3056",
+    "Name": "r_loadForRenderer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x579A1FE8",
+    "Name": "r_lockPvs",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3DFCA67C",
+    "Name": "r_logFile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC5FFD3AD",
+    "Name": "r_lowestLodDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x826D6CA7",
+    "Name": "r_lowLodDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB3192CAE",
+    "Name": "r_mediumLodDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFDD1A4E1",
+    "Name": "r_modelVertColor",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8917FB0D",
+    "Name": "r_multiGpu",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x67C381A2",
+    "Name": "r_norefresh",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x430E156D",
+    "Name": "r_normal",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1710A831",
+    "Name": "r_normalMap",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x60EB029E",
+    "Name": "r_outdoor",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4DBC3FA1",
+    "Name": "r_outdoorAwayBias",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD43595",
+    "Name": "r_outdoorDownBias",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8E228A97",
+    "Name": "r_outdoorFeather",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xABEBDF8D",
+    "Name": "r_picmip_manual",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x21EC3B5E",
+    "Name": "r_polygonOffsetBias",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3E2B8D7",
+    "Name": "r_polygonOffsetScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBC396C2D",
+    "Name": "r_portalBevelsOnly",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE1EED2E9",
+    "Name": "r_portalMinClipArea",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7C303758",
+    "Name": "r_portalMinRecurseDepth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x936F6FCE",
+    "Name": "r_portalWalkLimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA9A81D8",
+    "Name": "r_pretess",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE12ED4D0",
+    "Name": "r_reflectionProbeGenerate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA741930",
+    "Name": "r_reflectionProbeGenerateExit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5BA52B3E",
+    "Name": "r_reflectionProbeRegenerateAll",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6CA7A6DF",
+    "Name": "r_rendererInUse",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8052B680",
+    "Name": "r_rendererPreference",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2EACCAC9",
+    "Name": "r_resampleScene",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17FAB6CA",
+    "Name": "r_scaleViewport",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8D44D105",
+    "Name": "r_showFbColorDebug",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF89D202E",
+    "Name": "r_showFloatZDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3B2CD663",
+    "Name": "r_showLightGrid",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF51D649F",
+    "Name": "r_showMissingLightGrid",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD699A6BE",
+    "Name": "r_showPixelCost",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x727CA762",
+    "Name": "r_showPortals",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x78832AA",
+    "Name": "r_singleCell",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDFC9BF95",
+    "Name": "r_skinCache",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x849AE1AA",
+    "Name": "r_skipPvs",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEEA01755",
+    "Name": "r_smc_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4E163A23",
+    "Name": "r_smp_backend",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCEC0A889",
+    "Name": "r_smp_worker",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x433DC198",
+    "Name": "r_smp_worker_thread0",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD6968429",
+    "Name": "r_smp_worker_thread1",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2B825799",
+    "Name": "r_specular",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF00EBF7C",
+    "Name": "r_specularColorScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x11A00425",
+    "Name": "r_specularMap",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE12CA821",
+    "Name": "r_spotLightBrightness",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7C182417",
+    "Name": "r_spotLightEndRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF3A55E",
+    "Name": "r_spotLightEntityShadows",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9CCCE0B",
+    "Name": "r_spotLightFovInnerFraction",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8236E8D5",
+    "Name": "r_spotLightShadows",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9308721",
+    "Name": "r_spotLightSModelShadows",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2AA54E08",
+    "Name": "r_spotLightStartRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD561629D",
+    "Name": "r_sse_skinning",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x204B31E2",
+    "Name": "r_sun_from_dvars",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5C8B7059",
+    "Name": "r_sun_fx_position",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE280A1B5",
+    "Name": "r_sunblind_fadein",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCB7EFC5C",
+    "Name": "r_sunblind_fadeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x79C38176",
+    "Name": "r_sunblind_max_angle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB815D810",
+    "Name": "r_sunblind_max_darken",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6630EE78",
+    "Name": "r_sunblind_min_angle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD6522C7C",
+    "Name": "r_sunflare_fadein",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x55AFF2DD",
+    "Name": "r_sunflare_fadeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFC2AA812",
+    "Name": "r_sunflare_max_alpha",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5950A2C7",
+    "Name": "r_sunflare_max_angle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x528D338B",
+    "Name": "r_sunflare_max_size",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7DE82C19",
+    "Name": "r_sunflare_min_angle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2A49B0B5",
+    "Name": "r_sunflare_min_size",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB4A7C194",
+    "Name": "r_sunflare_shader",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x60171D85",
+    "Name": "r_sunglare_fadein",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCB721D2C",
+    "Name": "r_sunglare_fadeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF7301B86",
+    "Name": "r_sunglare_max_angle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAC314532",
+    "Name": "r_sunglare_max_lighten",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x192BA3A8",
+    "Name": "r_sunglare_min_angle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC3E2E9D1",
+    "Name": "r_sunsprite_shader",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB941167D",
+    "Name": "r_sunsprite_size",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x32DCE893",
+    "Name": "r_texFilterDisable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD9045F3A",
+    "Name": "r_texFilterMipBias",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x239CF2A0",
+    "Name": "r_texFilterMipMode",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x288E1A87",
+    "Name": "r_useLayeredMaterials",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x806C255A",
+    "Name": "r_vc_makelog",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE3D769F3",
+    "Name": "r_vc_showlog",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB4B49816",
+    "Name": "r_warningRepeatDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFD32BD1",
+    "Name": "r_zfar",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3E79F9B5",
+    "Name": "r_zFeather",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFA25EC6C",
+    "Name": "r_znear",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDFA9FAB7",
+    "Name": "r_znear_depthhack",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC77811A7",
+    "Name": "ragdoll_baselerp_time",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF7A669BF",
+    "Name": "ragdoll_bullet_force",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCDAA634E",
+    "Name": "ragdoll_bullet_upbias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xBF6BF812",
+    "Name": "ragdoll_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4D6429F8",
+    "Name": "ragdoll_dump_anims",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8092056",
+    "Name": "ragdoll_explode_force",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x531DFD6F",
+    "Name": "ragdoll_explode_upbias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4CA58FA6",
+    "Name": "ragdoll_fps",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEFF51020",
+    "Name": "ragdoll_jitter_scale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x609067B4",
+    "Name": "ragdoll_jointlerp_time",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x34AAA28E",
+    "Name": "ragdoll_max_life",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAFA10722",
+    "Name": "ragdoll_rotvel_scale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5382DF29",
+    "Name": "ragdoll_self_collision_scale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB5C49919",
+    "Name": "rate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x917B953B",
+    "Name": "rcon_password",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD3FB8A5",
+    "Name": "sc_blur",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC4BD70AF",
+    "Name": "sc_count",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEB7CB32C",
+    "Name": "sc_debugCasterCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6E8A1E7F",
+    "Name": "sc_debugReceiverCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17405EC5",
+    "Name": "sc_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2A06635D",
+    "Name": "sc_fadeRange",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xFAA1B7F8",
+    "Name": "sc_length",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x306848BB",
+    "Name": "sc_offscreenCasterLodBias",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53B5B1EA",
+    "Name": "sc_offscreenCasterLodScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAB1E9B47",
+    "Name": "sc_shadowInRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x33ED3BAE",
+    "Name": "sc_shadowOutRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x37E053CE",
+    "Name": "sc_showDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC4F02EED",
+    "Name": "sc_showOverlay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5D7614B",
+    "Name": "sc_wantCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5C28FD45",
+    "Name": "sc_wantCountMargin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5CDB8C13",
+    "Name": "scr_ctf_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB4879842",
+    "Name": "scr_ctf_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4DACC977",
+    "Name": "scr_ctf_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCA69A498",
+    "Name": "scr_ctf_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBE0C88ED",
+    "Name": "scr_ctf_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFAA688",
+    "Name": "scr_ctf_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x44139FAC",
+    "Name": "scr_ctf_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC228980B",
+    "Name": "scr_dm_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x95E75D4A",
+    "Name": "scr_dm_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCDF18ECF",
+    "Name": "scr_dm_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE06B6E75",
+    "Name": "scr_dm_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3A5A5E60",
+    "Name": "scr_dm_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFBB05A14",
+    "Name": "scr_dm_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5CEE6954",
+    "Name": "scr_dom_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8C13B365",
+    "Name": "scr_dom_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCB53C7B0",
+    "Name": "scr_dom_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9323629A",
+    "Name": "scr_dom_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE44B51F7",
+    "Name": "scr_dom_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x36365F0B",
+    "Name": "scr_dom_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8D37716B",
+    "Name": "scr_game_allowkillcam",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDF7CB674",
+    "Name": "scr_game_deathpointloss",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6016FC20",
+    "Name": "scr_game_forceuav",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE2BCF650",
+    "Name": "scr_game_graceperiod",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE8154DE7",
+    "Name": "scr_game_hardpoints",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD80E1A08",
+    "Name": "scr_game_onlyheadshots",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD4D19DD8",
+    "Name": "scr_game_perks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF4C91006",
+    "Name": "scr_game_spectatetype",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x153FFE44",
+    "Name": "scr_game_suicidepointloss",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBA5AE2",
+    "Name": "scr_hardcore",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x71FB4C5B",
+    "Name": "scr_hardpoint_allowartillery",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEA58454C",
+    "Name": "scr_hardpoint_allowhelicopter",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8BA39049",
+    "Name": "scr_hardpoint_allowuav",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6FCD6CDA",
+    "Name": "scr_koth_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2B4451BB",
+    "Name": "scr_koth_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x779325E",
+    "Name": "scr_koth_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD04DB4A9",
+    "Name": "scr_koth_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9AB77274",
+    "Name": "scr_koth_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4B370BA9",
+    "Name": "scr_koth_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3745645",
+    "Name": "scr_koth_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB216604D",
+    "Name": "scr_oldschool",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xADDEE943",
+    "Name": "scr_player_forcerespawn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFA4DC0A8",
+    "Name": "scr_player_healthregentime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4C1BDE02",
+    "Name": "scr_player_maxhealth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9B660161",
+    "Name": "scr_player_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x270C4A43",
+    "Name": "scr_player_respawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x19B61ACD",
+    "Name": "scr_player_sprinttime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBDAEB240",
+    "Name": "scr_player_suicidespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1FB1DAFC",
+    "Name": "scr_sab_bombtimer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA327A788",
+    "Name": "scr_sab_defusetime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x54F77B7B",
+    "Name": "scr_sab_hotpotato",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBA27C7F2",
+    "Name": "scr_sab_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCD085CFB",
+    "Name": "scr_sab_planttime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x53950283",
+    "Name": "scr_sab_playerrespawndelay",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCE3B6C36",
+    "Name": "scr_sab_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x33FB0E41",
+    "Name": "scr_sab_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x850195DC",
+    "Name": "scr_sab_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x61553741",
+    "Name": "scr_sab_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE36568AD",
+    "Name": "scr_sab_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x262D568B",
+    "Name": "scr_sd_bombtimer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x24F53427",
+    "Name": "scr_sd_defusetime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC31590CD",
+    "Name": "scr_sd_multibomb",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD1C9B82D",
+    "Name": "scr_sd_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3385CDDC",
+    "Name": "scr_sd_planttime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2E44396C",
+    "Name": "scr_sd_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x55AA96C9",
+    "Name": "scr_sd_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBDFA2A66",
+    "Name": "scr_sd_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF9D6C4B3",
+    "Name": "scr_sd_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x94B62016",
+    "Name": "scr_sd_timelimit",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA8F03272",
+    "Name": "scr_sd_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF1AC6694",
+    "Name": "scr_team_fftype",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4980915",
+    "Name": "scr_team_kickteamkillers",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB70BA87D",
+    "Name": "scr_team_respawntime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF65F1384",
+    "Name": "scr_team_teamkillpointloss",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD81266AD",
+    "Name": "scr_team_teamkillspawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCAAC50E6",
+    "Name": "scr_war_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x90DB8517",
+    "Name": "scr_war_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x74CCE9E2",
+    "Name": "scr_war_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCF82BF88",
+    "Name": "scr_war_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x76B660B5",
+    "Name": "scr_war_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x98D13AD9",
+    "Name": "scr_war_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2C5663C6",
+    "Name": "scr_xpscale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2237A1F",
+    "Name": "server1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDBD99C27",
+    "Name": "server10",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4880D996",
+    "Name": "server11",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB5281705",
+    "Name": "server12",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x21CF5474",
+    "Name": "server13",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8E7691E3",
+    "Name": "server14",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xFB1DCF52",
+    "Name": "server15",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x67C50CC1",
+    "Name": "server16",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4819326C",
+    "Name": "server2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDB71F4FD",
+    "Name": "server3",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2167AD4A",
+    "Name": "server4",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB4C06FDB",
+    "Name": "server5",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xFAB62828",
+    "Name": "server6",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8E0EEAB9",
+    "Name": "server7",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD404A306",
+    "Name": "server8",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x675D6597",
+    "Name": "server9",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9939715B",
+    "Name": "shortversion",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3567659",
+    "Name": "showdrop",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4F218E83",
+    "Name": "showpackets",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xACECB73C",
+    "Name": "sm_fastSunShadow",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x43BF4BF5",
+    "Name": "sm_lightScore_eyeProjectDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x98D217E0",
+    "Name": "sm_lightScore_spotProjectFrac",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8F73EED3",
+    "Name": "sm_maxLights",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7A548302",
+    "Name": "sm_polygonOffsetBias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC0B789B",
+    "Name": "sm_polygonOffsetScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFBBDC489",
+    "Name": "sm_qualitySpotShadow",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7B65A2A3",
+    "Name": "sm_spotEnable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x478EEBD7",
+    "Name": "sm_spotShadowFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7B9B0FCF",
+    "Name": "sm_strictCull",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x27144D2B",
+    "Name": "sm_sunEnable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3F94C2B1",
+    "Name": "sm_sunSampleSizeNear",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA730073F",
+    "Name": "sm_sunShadowCenter",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4B5B6464",
+    "Name": "sm_sunShadowScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x885B14FC",
+    "Name": "snaps",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA8F2EF42",
+    "Name": "snd_draw3D",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9B7EF36B",
+    "Name": "snd_drawInfo",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x72EECBE2",
+    "Name": "snd_enable2D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD4E65EDB",
+    "Name": "snd_enable3D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA4C52B30",
+    "Name": "snd_enableReverb",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBC0D7DF8",
+    "Name": "snd_enableStream",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x35277374",
+    "Name": "snd_khz",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7E966B90",
+    "Name": "snd_levelFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC7D7BD42",
+    "Name": "snd_outputConfiguration",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9336F93B",
+    "Name": "snd_slaveFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x677B5CC",
+    "Name": "stat_version",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x30E2D994",
+    "Name": "stopspeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5FD63413",
+    "Name": "sv_allowAnonymous",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9165C6E4",
+    "Name": "sv_allowDownload",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x79532B50",
+    "Name": "sv_allowedClan1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x335D7303",
+    "Name": "sv_allowedClan2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB68AE834",
+    "Name": "sv_botsPressAttackBtn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD9DA29C1",
+    "Name": "sv_cheats",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5D890AA2",
+    "Name": "sv_clientArchive",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x19413D06",
+    "Name": "sv_clientSideBullets",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x54184B54",
+    "Name": "sv_connectTimeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAC7514F2",
+    "Name": "sv_debugRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFB0A1081",
+    "Name": "sv_debugReliableCmds",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x86A4D8BB",
+    "Name": "sv_disableClientConsole",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA730EFB7",
+    "Name": "sv_FFCheckSums",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9AD841F5",
+    "Name": "sv_FFNames",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x5F05D11C",
+    "Name": "sv_floodProtect",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB92F26A4",
+    "Name": "sv_fps",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD6B0695E",
+    "Name": "sv_hostname",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xC7EFC49F",
+    "Name": "sv_iwdNames",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x64FDDA88",
+    "Name": "sv_iwds",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6E1AFA0B",
+    "Name": "sv_keywords",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x1638EF33",
+    "Name": "sv_kickBanTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x37CA02E9",
+    "Name": "sv_mapRotation",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xA82DFF70",
+    "Name": "sv_mapRotationCurrent",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x1EB0FF97",
+    "Name": "sv_maxclients",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFDC6F81D",
+    "Name": "sv_maxPing",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x31222F8F",
+    "Name": "sv_maxRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x91FE1DB3",
+    "Name": "sv_minPing",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x142D35A0",
+    "Name": "sv_packet_info",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x89047ED7",
+    "Name": "sv_padPackets",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB37EEDEF",
+    "Name": "sv_paused",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7C101FBE",
+    "Name": "sv_privateClients",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1EF5123",
+    "Name": "sv_privatePassword",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xEE2EDBCE",
+    "Name": "sv_punkbuster",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBB68412B",
+    "Name": "sv_pure",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAA83D1F5",
+    "Name": "sv_reconnectlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3398A0D8",
+    "Name": "sv_referencedFFCheckSums",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x7CF87B1A",
+    "Name": "sv_referencedFFNames",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xFB663C48",
+    "Name": "sv_referencedIwdNames",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x5377D99F",
+    "Name": "sv_referencedIwds",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x71FC31FE",
+    "Name": "sv_running",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7D6D1C99",
+    "Name": "sv_serverid",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x75E6E8",
+    "Name": "sv_showAverageBPS",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB204DDF6",
+    "Name": "sv_showCommands",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3937182",
+    "Name": "sv_timeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF0F75EE7",
+    "Name": "sv_voice",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x28794B2A",
+    "Name": "sv_voiceQuality",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x51D5FC70",
+    "Name": "sv_wwwBaseURL",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x435B6C67",
+    "Name": "sv_wwwDlDisconnected",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x788417FA",
+    "Name": "sv_wwwDownload",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2E374622",
+    "Name": "sv_zombietime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6605DB7E",
+    "Name": "sys_cpuGHz",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3EE565EC",
+    "Name": "sys_cpuName",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6CF16C3B",
+    "Name": "sys_lockThreads",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x9D559CCC",
+    "Name": "sys_smp_allowed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7DAD4C8",
+    "Name": "sys_SSE",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEF2730A6",
+    "Name": "timescale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC25907F6",
+    "Name": "ui_allow_classchange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x348153FC",
+    "Name": "ui_allow_controlschange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x32041B25",
+    "Name": "ui_allow_teamchange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEB61EB9F",
+    "Name": "ui_bigFont",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD5AAF736",
+    "Name": "ui_borderLowLightScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7405A323",
+    "Name": "ui_browserFriendlyfire",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x30285DF9",
+    "Name": "ui_browserKillcam",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17BC3C2A",
+    "Name": "ui_browserMod",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x25AE174",
+    "Name": "ui_browserShowDedicated",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA1980EB2",
+    "Name": "ui_browserShowEmpty",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFBD8CD14",
+    "Name": "ui_browserShowFull",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x84FFD1A8",
+    "Name": "ui_browserShowPassword",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x23E7C8A0",
+    "Name": "ui_browserShowPunkBuster",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2CAFF45",
+    "Name": "ui_browserShowPure",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC1AEB63B",
+    "Name": "ui_buildLocation",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x98EB9F0B",
+    "Name": "ui_buildSize",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCA515AF6",
+    "Name": "ui_cinematicsTimestamp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4B3B8739",
+    "Name": "ui_connectScreenTextGlowColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8775B545",
+    "Name": "ui_currentMap",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC38116E2",
+    "Name": "ui_currentNetMap",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7161CF12",
+    "Name": "ui_customClassName",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF7E094FB",
+    "Name": "ui_customModeEditName",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE19B8A87",
+    "Name": "ui_customModeName",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xAAA1BBF3",
+    "Name": "ui_dedicated",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7026285C",
+    "Name": "ui_drawCrosshair",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7D402425",
+    "Name": "ui_extraBigFont",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x39DDE3CE",
+    "Name": "ui_gametype",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x281AA839",
+    "Name": "ui_hint_text",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x328426D2",
+    "Name": "ui_hud_hardcore",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x947E3D87",
+    "Name": "ui_hud_obituaries",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x205DE692",
+    "Name": "ui_hud_showobjicons",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53E3E4C4",
+    "Name": "ui_joinGametype",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x64DE9623",
+    "Name": "ui_mapname",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x819A59B6",
+    "Name": "ui_maxclients",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2C1D135A",
+    "Name": "ui_multiplayer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEFA046D9",
+    "Name": "ui_netGametype",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x15EBBF66",
+    "Name": "ui_netGametypeName",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDD8BADA",
+    "Name": "ui_netSource",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x82442F12",
+    "Name": "ui_playerProfileAlreadyChosen",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6CFCD813",
+    "Name": "ui_playerProfileCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFD65A8DB",
+    "Name": "ui_playerProfileNameNew",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4A40FB89",
+    "Name": "ui_playerProfileSelected",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x75465F2A",
+    "Name": "ui_serverStatusTimeOut",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xABCEE263",
+    "Name": "ui_showEndOfGame",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6A554FE1",
+    "Name": "ui_showList",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5D5DE3C7",
+    "Name": "ui_showmap",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2A64973C",
+    "Name": "ui_showMenuOnly",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB39835C",
+    "Name": "ui_smallFont",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6B052E83",
+    "Name": "ui_uav_allies",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x48F2849E",
+    "Name": "ui_uav_axis",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x954EC484",
+    "Name": "ui_uav_client",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6C6B7B8E",
+    "Name": "uiscript_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE88BD056",
+    "Name": "useFastFile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x78A484B8",
+    "Name": "vehDebugClient",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA1BE9819",
+    "Name": "vehDriverViewDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDE4FB818",
+    "Name": "vehDriverViewFocusRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE9D4BAB0",
+    "Name": "vehDriverViewHeightMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4908D8CE",
+    "Name": "vehDriverViewHeightMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x66A3D7F1",
+    "Name": "version",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x12477E10",
+    "Name": "voice_deadChat",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3435F9A1",
+    "Name": "voice_global",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFAEFF036",
+    "Name": "voice_localEcho",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE5DBF7B9",
+    "Name": "waypointDebugDraw",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCFC1CAB9",
+    "Name": "waypointDistScaleRangeMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2EF5E8D7",
+    "Name": "waypointDistScaleRangeMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6B92CC97",
+    "Name": "waypointDistScaleSmallest",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD25C64C",
+    "Name": "waypointIconHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAE4B5B3D",
+    "Name": "waypointIconWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x36530514",
+    "Name": "waypointOffscreenCornerRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5CDC479B",
+    "Name": "waypointOffscreenDistanceThresholdAlpha",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x744DC231",
+    "Name": "waypointOffscreenPadBottom",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCF8C362D",
+    "Name": "waypointOffscreenPadLeft",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x268F66AE",
+    "Name": "waypointOffscreenPadRight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6430E845",
+    "Name": "waypointOffscreenPadTop",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x33CE673B",
+    "Name": "waypointOffscreenPointerDistance",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3960ED07",
+    "Name": "waypointOffscreenPointerHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5F35063E",
+    "Name": "waypointOffscreenPointerWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE4AECC14",
+    "Name": "waypointOffscreenRoundedCorners",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x83550A17",
+    "Name": "waypointOffscreenScaleLength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1C809C6E",
+    "Name": "waypointOffscreenScaleSmallest",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD1707526",
+    "Name": "waypointPlayerOffsetCrouch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3E59FA18",
+    "Name": "waypointPlayerOffsetProne",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x87497392",
+    "Name": "waypointPlayerOffsetStand",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x31E36046",
+    "Name": "waypointSplitscreenScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x59B45DB5",
+    "Name": "waypointTweakY",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8A5F4350",
+    "Name": "wideScreen",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3147ECB",
+    "Name": "winvoice_mic_mute",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x446D4F30",
+    "Name": "winvoice_mic_reclevel",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB37F13D8",
+    "Name": "winvoice_mic_scaler",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7D2EB83A",
+    "Name": "winvoice_save_voice",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x43F1AB1F",
+    "Name": "aim_accel_turnrate_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB8C74CC3",
+    "Name": "aim_accel_turnrate_enabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x35F60605",
+    "Name": "aim_accel_turnrate_lerp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBF7FE604",
+    "Name": "aim_aimAssistRangeScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1DC057BD",
+    "Name": "aim_autoaim_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3EA84E1",
+    "Name": "aim_autoaim_enabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x64F63997",
+    "Name": "aim_autoaim_lerp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBB99789C",
+    "Name": "aim_autoaim_region_height",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8CF13CED",
+    "Name": "aim_autoaim_region_width",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x289DFD4C",
+    "Name": "aim_autoAimRangeScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x942A9304",
+    "Name": "aim_automelee_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x72CC6D78",
+    "Name": "aim_automelee_enabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE6170686",
+    "Name": "aim_automelee_lerp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCDC01C2A",
+    "Name": "aim_automelee_range",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC42A1CD5",
+    "Name": "aim_automelee_region_height",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3033CBFC",
+    "Name": "aim_automelee_region_width",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x46477A8A",
+    "Name": "aim_input_graph_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDA5CC566",
+    "Name": "aim_input_graph_enabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7D81CD6D",
+    "Name": "aim_input_graph_index",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x95F1C32D",
+    "Name": "aim_lockon_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x395BE9ED",
+    "Name": "aim_lockon_deflection",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x98383331",
+    "Name": "aim_lockon_enabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB807084C",
+    "Name": "aim_lockon_region_height",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB066CD3D",
+    "Name": "aim_lockon_region_width",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x78CA7EA1",
+    "Name": "aim_lockon_strength",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x531665FF",
+    "Name": "aim_scale_view_axis",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x12C092BA",
+    "Name": "aim_slowdown_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCADDE4F6",
+    "Name": "aim_slowdown_enabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6EC3818A",
+    "Name": "aim_slowdown_pitch_scale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF765736B",
+    "Name": "aim_slowdown_pitch_scale_ads",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3A19C03B",
+    "Name": "aim_slowdown_region_height",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x72247902",
+    "Name": "aim_slowdown_region_width",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9D72CF9B",
+    "Name": "aim_slowdown_yaw_scale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1E2866DA",
+    "Name": "aim_slowdown_yaw_scale_ads",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xFFAEE24F",
+    "Name": "aim_turnrate_pitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6A8D5B4E",
+    "Name": "aim_turnrate_pitch_ads",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1D95B94E",
+    "Name": "aim_turnrate_yaw",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3DB3266F",
+    "Name": "aim_turnrate_yaw_ads",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x66022152",
+    "Name": "badhost_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5FE78CFA",
+    "Name": "badhost_endGameIfISuck",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9E9CBB4D",
+    "Name": "badhost_maxDoISuckFrames",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x439B4252",
+    "Name": "badhost_maxHappyPingTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9F254316",
+    "Name": "badhost_minPercentClientsUnhappyToSuck",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1C1F244C",
+    "Name": "badhost_minTotalClientsForHappyTest",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5B5EB44E",
+    "Name": "band_12players",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBA2A8E84",
+    "Name": "band_18players",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2700FBF7",
+    "Name": "band_2players",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBFDB5EE1",
+    "Name": "band_4players",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17860F2D",
+    "Name": "band_8players",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x251E45D9",
+    "Name": "bandwidthtest_announceinterval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE7E02F4B",
+    "Name": "bandwidthtest_duration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6F26D53C",
+    "Name": "bandwidthtest_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8D486550",
+    "Name": "bandwidthtest_fudge",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF5352182",
+    "Name": "bandwidthtest_ingame_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5F16C8AE",
+    "Name": "bandwidthtest_ingame_fudge",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2E94FFCC",
+    "Name": "bandwidthtest_maxpacketsize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA935DF43",
+    "Name": "bandwidthtest_quota",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x547FBE94",
+    "Name": "bandwidthtest_rounds",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x82D5A00B",
+    "Name": "bandwidthtest_scalar",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4AF61D96",
+    "Name": "bandwidthtest_timeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC7C61A5D",
+    "Name": "bg_bulletExplDmgFactor",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8458A4D6",
+    "Name": "bg_bulletExplRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBFCACD0E",
+    "Name": "bg_debugProne",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE5211D4B",
+    "Name": "bg_forceDualWield",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB6C39E6E",
+    "Name": "bg_forceExplosiveBullets",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE24ECCEB",
+    "Name": "bg_lowGravity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x405485B9",
+    "Name": "bg_shieldHitEncodeHeightVM",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3029C48",
+    "Name": "bg_shieldHitEncodeHeightWorld",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3B9946F8",
+    "Name": "bg_shieldHitEncodeWidthVM",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF1BF32D1",
+    "Name": "bg_shieldHitEncodeWidthWorld",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE38EA080",
+    "Name": "bg_shock_volume_ambdist1",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9D98E833",
+    "Name": "bg_shock_volume_ambdist2",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xAB1AC1A0",
+    "Name": "bg_shock_volume_explosiveimpact",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6479EAB3",
+    "Name": "bg_shock_volume_local3",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x451CEE17",
+    "Name": "bg_softLandingMaxDamage",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xADF0D87B",
+    "Name": "bg_softLandingMaxHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD64722D5",
+    "Name": "bg_softLandingMinHeight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9D18D917",
+    "Name": "bg_viewBobAmplitudeBase",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x84C647A2",
+    "Name": "bg_viewBobAmplitudeDucked",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC2A90A94",
+    "Name": "bg_viewBobAmplitudeDuckedAds",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8117191C",
+    "Name": "bg_viewBobAmplitudeProne",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8D935B77",
+    "Name": "bg_viewBobAmplitudeRoll",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC0EBA4C0",
+    "Name": "bg_viewBobAmplitudeSprinting",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE1042776",
+    "Name": "bg_viewBobAmplitudeStanding",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA20B30A0",
+    "Name": "bg_viewBobAmplitudeStandingAds",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8F367819",
+    "Name": "bg_viewBobLag",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA7868007",
+    "Name": "bg_viewBobMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB9594BD8",
+    "Name": "bg_weaponBobAmplitudeBase",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4647CA3D",
+    "Name": "bg_weaponBobAmplitudeDucked",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC7CBC47B",
+    "Name": "bg_weaponBobAmplitudeProne",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x99C860A8",
+    "Name": "bg_weaponBobAmplitudeRoll",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x35104647",
+    "Name": "bg_weaponBobAmplitudeSprinting",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE4C16689",
+    "Name": "bg_weaponBobAmplitudeStanding",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x391C8686",
+    "Name": "bg_weaponBobLag",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x2E384AF8",
+    "Name": "bg_weaponBobMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x24E895C5",
+    "Name": "bullet_penetration_enabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x845BE910",
+    "Name": "bullet_ricochetBaseChance",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x2C072E9B",
+    "Name": "camera_thirdPerson",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA5B6712F",
+    "Name": "camera_thirdPersonAdsTransScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB028D632",
+    "Name": "camera_thirdPersonCrosshairOffset",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD14F8704",
+    "Name": "camera_thirdPersonFovScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5D5D9FE6",
+    "Name": "camera_thirdPersonOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDBDBAFF0",
+    "Name": "camera_thirdPersonOffsetAds",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE9598728",
+    "Name": "camera_thirdPersonOffsetTurretAds",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x94839259",
+    "Name": "cameraShakeRemoteHelo_Angles",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB0CDDB30",
+    "Name": "cameraShakeRemoteHelo_Freqs",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9A78FDB",
+    "Name": "cameraShakeRemoteHelo_SpeedRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5B5F1C13",
+    "Name": "cameraShakeRemoteMissile_Angles",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6BDDD1BA",
+    "Name": "cameraShakeRemoteMissile_Freqs",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x31310361",
+    "Name": "cameraShakeRemoteMissile_SpeedRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x99AA1F6",
+    "Name": "cg_chatWithOtherTeams",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x64B68323",
+    "Name": "cg_crosshairVerticalOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6047BAA1",
+    "Name": "cg_cullBulletAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC7500903",
+    "Name": "cg_cullBullets",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7BC58504",
+    "Name": "cg_deadChatWithDead",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEA39F18D",
+    "Name": "cg_deadChatWithTeam",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEB3678B8",
+    "Name": "cg_deadHearAllLiving",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDDFE6C2C",
+    "Name": "cg_deadHearTeamLiving",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCA117057",
+    "Name": "cg_dobjdump",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBAF48AE6",
+    "Name": "cg_drawDamageDirection",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7B2CC5F3",
+    "Name": "cg_drawDamageFlash",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD79F7F31",
+    "Name": "cg_drawSplatter",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA46E9AAF",
+    "Name": "cg_drawSplatterTest",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6DF6794C",
+    "Name": "cg_drawStatsSource",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4D1C373A",
+    "Name": "cg_drawTalk",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8C8D65ED",
+    "Name": "cg_everyoneHearsEveryone",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAFD8D0B",
+    "Name": "cg_explosiveKillCamBackDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE7B5227E",
+    "Name": "cg_explosiveKillCamGroundBackDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE9954890",
+    "Name": "cg_explosiveKillCamGroundUpDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x23E7683B",
+    "Name": "cg_explosiveKillCamStopDecelDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x28683A0",
+    "Name": "cg_explosiveKillCamStopDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8B3E48F5",
+    "Name": "cg_explosiveKillCamUpDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE7DBFAC0",
+    "Name": "cg_explosiveKillCamWallOutDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3E710F15",
+    "Name": "cg_explosiveKillCamWallSideDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5A2E6124",
+    "Name": "cg_flashbangNameFadeIn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2087A035",
+    "Name": "cg_flashbangNameFadeOut",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFEF6B688",
+    "Name": "cg_javelinKillCamCloseZDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x22749FC6",
+    "Name": "cg_javelinKillCamDownDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2EEE1789",
+    "Name": "cg_javelinKillCamFov",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3BCC7568",
+    "Name": "cg_javelinKillCamLookLerpDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x19FA5915",
+    "Name": "cg_javelinKillCamPassDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1D14767A",
+    "Name": "cg_javelinKillCamPassTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBD73E0B1",
+    "Name": "cg_javelinKillCamUpDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9309E4E8",
+    "Name": "cg_killCamDefaultLerpTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9561B8B3",
+    "Name": "cg_killCamTurretLerpTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5D7E70B3",
+    "Name": "cg_levelReverbDryLevel",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC0BC3ABF",
+    "Name": "cg_levelReverbEnabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE7B8B26D",
+    "Name": "cg_levelReverbRoomType",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x6957B64A",
+    "Name": "cg_levelReverbWetLevel",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x79825430",
+    "Name": "cg_minCullBulletDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x359BF4B6",
+    "Name": "cg_overheadTitlesFont",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2A74E6AB",
+    "Name": "cg_overheadTitleSize",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x437A8855",
+    "Name": "cg_predictItemsDuration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4427F8C4",
+    "Name": "cg_remoteMissileKillCamBackDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x823D984A",
+    "Name": "cg_remoteMissileKillCamUpDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCFF6978",
+    "Name": "cg_rocketKillCamBackDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAA500C16",
+    "Name": "cg_rocketKillCamUpDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA66E41A8",
+    "Name": "cg_splatterHitAlpha",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17B9DAD8",
+    "Name": "cg_splatterHitFadeInTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xBA1C2B61",
+    "Name": "cg_splatterHitFadeOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x14376FBD",
+    "Name": "cg_splatterHitFullInTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3C7F7E6B",
+    "Name": "cg_splatterHitInnerAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7B756AEA",
+    "Name": "cg_splatterHitInnerRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD44D3432",
+    "Name": "cg_splatterHitOntoScreen",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x622FAB2C",
+    "Name": "cg_splatterHitOuterAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1C96D4E5",
+    "Name": "cg_splatterHitOuterRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xBA2BFDE2",
+    "Name": "cg_splatterTrackAlpha",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC2F3CC22",
+    "Name": "cg_splatterTrackFadeInTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2E41250B",
+    "Name": "cg_splatterTrackFadeOutTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7E22D9E7",
+    "Name": "cg_splatterTrackFullInTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD80EBA50",
+    "Name": "cg_splatterTrackIndependent",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCF65741",
+    "Name": "cg_splatterTrackInnerAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x42B23BA0",
+    "Name": "cg_splatterTrackInnerRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x23593D8",
+    "Name": "cg_splatterTrackOntoScreen",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7F26",
+    "Name": "cg_splatterTrackOuterAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3040D69F",
+    "Name": "cg_splatterTrackOuterRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x31E19495",
+    "Name": "cg_thirdPersonMode",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2B73BBE4",
+    "Name": "cg_turretKillCamBackDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2098BA6A",
+    "Name": "cg_turretKillCamFov",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x48954C6A",
+    "Name": "cg_turretKillCamUpDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4F2820B8",
+    "Name": "cg_viewVehicleInfluence",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA507166A",
+    "Name": "cg_watersheeting",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF721E70C",
+    "Name": "cg_waterSheeting_brightness",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x57B4D1B7",
+    "Name": "cg_waterSheeting_contrast",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4486505E",
+    "Name": "cg_waterSheeting_darkTint",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDCA46C08",
+    "Name": "cg_waterSheeting_desaturation",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCAB15A04",
+    "Name": "cg_waterSheeting_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAFAFC265",
+    "Name": "cg_waterSheeting_fadeDuration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x462FCD7C",
+    "Name": "cg_waterSheeting_lightTint",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4338FD09",
+    "Name": "cg_weapHitCullAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x74EC4BB9",
+    "Name": "cg_weapHitCullEnable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC5F912A1",
+    "Name": "cg_weaponVisInterval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x91B3071",
+    "Name": "cl_demoBackJump",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE44B0D82",
+    "Name": "cl_demoFastTimescaleSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x154B3399",
+    "Name": "cl_demoForwardJump",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E9F7D8D",
+    "Name": "cl_demoSlowTimescaleSpeed",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x106AD2E2",
+    "Name": "cl_dirSelConvergenceTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1C667E1C",
+    "Name": "cl_migrationTimeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x83FDF099",
+    "Name": "com_cinematicEndInWhite",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAD5D40BE",
+    "Name": "com_errorResolveCommand",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x988BCFD3",
+    "Name": "compassFastRadarUpdateTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD4E37FE7",
+    "Name": "compassHellfireTargetSpot",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE450BC30",
+    "Name": "compassHideSansObjectivePointer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x65263B88",
+    "Name": "compassHideVehicles",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA0A7D9D1",
+    "Name": "cpu_speed_12players",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x36399FEB",
+    "Name": "cpu_speed_18players",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB14054DA",
+    "Name": "cpu_speed_8players",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE0BBD2DB",
+    "Name": "drawEntityCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB82AAF67",
+    "Name": "drawEntityCountPos",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDB419D16",
+    "Name": "drawEntityCountSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1517D386",
+    "Name": "drawKillcamData",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4225C972",
+    "Name": "drawKillcamDataPos",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x97DD7F5B",
+    "Name": "drawKillcamDataSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x22C37815",
+    "Name": "drawLagometer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB9C80859",
+    "Name": "drawServerBandwidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x34831FD5",
+    "Name": "drawServerBandwidthPos",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6492EEB3",
+    "Name": "dynEnt_damageScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA86761F9",
+    "Name": "dynEnt_explodingBulletForce",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x39D006AC",
+    "Name": "dynEnt_explodingBulletMaxEnts",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6432C01B",
+    "Name": "dynEnt_explodingBulletMinForce",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA6DB8F80",
+    "Name": "dynEnt_explodingBulletSpinScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE4C83E78",
+    "Name": "dynEnt_explodingBulletUpbias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE5B15B36",
+    "Name": "FoFIconMaxSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x512187C8",
+    "Name": "FoFIconMinSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBDA8F837",
+    "Name": "FoFIconScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCA0EA5C4",
+    "Name": "FoFIconSpawnTimeDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5A72971F",
+    "Name": "FoFIconSpawnTimeFade",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6B836FA9",
+    "Name": "fx_count",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x666F6645",
+    "Name": "fx_cull_elem_draw",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x104B1466",
+    "Name": "fx_cull_elem_spawn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x27D99DA6",
+    "Name": "fx_debugBolt",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFCCFD54A",
+    "Name": "fx_draw",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x76725E78",
+    "Name": "fx_drawClouds",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x14B45233",
+    "Name": "fx_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCD938011",
+    "Name": "fx_freeze",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x20BB7483",
+    "Name": "fx_mark_profile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFE34A6D9",
+    "Name": "fx_profile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEE4C06E1",
+    "Name": "fx_profileFilter",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD661C138",
+    "Name": "fx_profileSkip",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3384222B",
+    "Name": "fx_profileSort",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x7F4453DF",
+    "Name": "fx_visMinTraceDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1E1BEFB5",
+    "Name": "g_gravity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE2153CF7",
+    "Name": "g_hardcore",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD2AC219E",
+    "Name": "gameMode",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xFAC92F74",
+    "Name": "glass_angular_vel",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x56D346D1",
+    "Name": "glass_break",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3923C777",
+    "Name": "glass_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x86C1A893",
+    "Name": "glass_edge_angle",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2C90643",
+    "Name": "glass_fall_delay",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x756F2D40",
+    "Name": "glass_fall_gravity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x38649A27",
+    "Name": "glass_fall_ratio",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA6AF4BF2",
+    "Name": "glass_fringe_maxcoverage",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x129CC201",
+    "Name": "glass_fringe_maxsize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA36FB19D",
+    "Name": "glass_fx_chance",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3092774E",
+    "Name": "glass_hinge_friction",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x331EBBA3",
+    "Name": "glass_linear_vel",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE1DE5466",
+    "Name": "glass_max_pieces_per_frame",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x88026183",
+    "Name": "glass_max_shatter_fx_per_frame",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB83EC770",
+    "Name": "glass_physics_chance",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF8D822A4",
+    "Name": "glass_physics_maxdist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDC2C690C",
+    "Name": "glass_shard_maxsize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3B3A0F3D",
+    "Name": "glass_shattered_scale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF688CB77",
+    "Name": "glass_trace_interval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD9406CE4",
+    "Name": "hud_bloodOverlayLerpRate",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x46F5424",
+    "Name": "iwnet_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC229DE97",
+    "Name": "iwnet_maxResendTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE4FE3099",
+    "Name": "iwnet_minResendTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFEACD9F3",
+    "Name": "iwnet_searching",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC4918D8",
+    "Name": "iwnet_sessionFullHeartbeat",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD557DD03",
+    "Name": "iwnet_sessionHeartbeat",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17A4AC8",
+    "Name": "iwnet_sessions",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x616EC6D5",
+    "Name": "iwnet_xuid",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x73C9B273",
+    "Name": "koth_extraDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF71FBC5A",
+    "Name": "koth_proMode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDF3B47B",
+    "Name": "laserDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD6053338",
+    "Name": "laserEndOffset",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x46D3CE69",
+    "Name": "laserFlarePct",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x39AC7647",
+    "Name": "laserFlarePct_alt",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB5D9101E",
+    "Name": "laserForceOn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDFEB9C2C",
+    "Name": "laserLight",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCEB89206",
+    "Name": "laserLightBeginOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x422B9DD0",
+    "Name": "laserLightBodyTweak",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8B442DFE",
+    "Name": "laserLightEndOffset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA2CD8F9C",
+    "Name": "laserLightRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x45508A02",
+    "Name": "laserLightRadius_alt",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x59116DE0",
+    "Name": "laserLightWithoutNightvision",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF65926EA",
+    "Name": "laserRadius",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB1FB5C54",
+    "Name": "laserRadius_alt",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6600B995",
+    "Name": "laserRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5FEC77CB",
+    "Name": "laserRange_alt",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCDFA2F66",
+    "Name": "laserRangePlayer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAA2EA167",
+    "Name": "loading_sre_fatal",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF400ED9F",
+    "Name": "lobby_animationSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x185A5C31",
+    "Name": "lobby_animationTilesHigh",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE580E880",
+    "Name": "lobby_animationTilesWide",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD48E4400",
+    "Name": "lobby_numAnimationFrames",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x41D85720",
+    "Name": "lobby_partySearchWaitTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF3E61BDB",
+    "Name": "lobby_searchingPartyColor",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA47D1839",
+    "Name": "loc_warningsUI",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6216372",
+    "Name": "lsp_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAE85CD7A",
+    "Name": "mantle_max_vertical_end_velocity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA661982D",
+    "Name": "mapcrc",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x58BDBCC1",
+    "Name": "matchmaking_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9E489CB8",
+    "Name": "maxVoicePacketsPerSec",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB4347D7E",
+    "Name": "maxVoicePacketsPerSecForServer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFBF381B0",
+    "Name": "migration_blocksperframe",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA13CD952",
+    "Name": "migration_dvarErrors",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x460D7ECD",
+    "Name": "migration_limit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA1E6B472",
+    "Name": "migration_msgtimeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7623580F",
+    "Name": "migration_timeBetween",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x760CE1E8",
+    "Name": "migration_verboseBroadcastTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x18BAE42",
+    "Name": "migrationPingTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9CC65634",
+    "Name": "missileRemoteFOV",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEC0C7367",
+    "Name": "missileRemoteSteerPitchRange",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x75A9D11A",
+    "Name": "missileRemoteSteerPitchRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCF6FD58B",
+    "Name": "missileRemoteSteerYawRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA7F4C8E2",
+    "Name": "motionTrackerBlurDuration",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCAAC5106",
+    "Name": "motionTrackerCenterX",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E051397",
+    "Name": "motionTrackerCenterY",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4057F45E",
+    "Name": "motionTrackerPingFadeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC706F267",
+    "Name": "motionTrackerPingPitchAddPerEnemy",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3FBD776",
+    "Name": "motionTrackerPingPitchBase",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x157328B0",
+    "Name": "motionTrackerPingPitchNearby",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x490BEAF8",
+    "Name": "motionTrackerPingSize",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE87BBAE2",
+    "Name": "motionTrackerRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x93E98B90",
+    "Name": "motionTrackerSweepAngle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4FED516",
+    "Name": "motionTrackerSweepInterval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2C90546E",
+    "Name": "motionTrackerSweepSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x311A1147",
+    "Name": "mp_paused",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E0F6B60",
+    "Name": "objectiveFadeTimeGoingOff",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5090967E",
+    "Name": "objectiveFadeTimeGoingOn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x14E7A6AB",
+    "Name": "objectiveFadeTimeWaitOff",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x115A822D",
+    "Name": "objectiveFadeTimeWaitOn",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2E9448D0",
+    "Name": "objectiveFadeTooClose",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7C787F33",
+    "Name": "objectiveFadeTooFar",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x89E3A0CA",
+    "Name": "objectiveFontSize",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xC5989D24",
+    "Name": "objectiveHide",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x46B90E6D",
+    "Name": "objectiveTextOffsetY",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x80B41711",
+    "Name": "onlinegameandhost",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD43D78FD",
+    "Name": "onlineunrankedgameandhost",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x205EA710",
+    "Name": "painReverbDryLevel",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA0725E4E",
+    "Name": "painReverbRoomType",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xBD53C319",
+    "Name": "painReverbWetLevel",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x530599DE",
+    "Name": "painVisionLerpOutRate",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3A05AD65",
+    "Name": "painVisionTriggerHealth",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF98A7333",
+    "Name": "party_autoteams",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9BEE670F",
+    "Name": "party_connectTimeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x14E4C338",
+    "Name": "party_connectToOthers",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB176AA27",
+    "Name": "party_currentSearchTier",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x72934E53",
+    "Name": "party_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1F732BBD",
+    "Name": "party_defaultSearchTier",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x89589633",
+    "Name": "party_editingsettings",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9EB25AE4",
+    "Name": "party_firstSubpartyIndex",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCCAFFA1",
+    "Name": "party_gamesize",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x51643A7",
+    "Name": "party_gameStartTimerLength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6B23D9E4",
+    "Name": "party_gametype",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE114A2AA",
+    "Name": "party_host",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4F3B4E76",
+    "Name": "party_hostmigration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x59562E05",
+    "Name": "party_hostname",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x104E1CBE",
+    "Name": "party_IAmSelected",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x74893F3D",
+    "Name": "party_kickplayerquestion",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x140263A4",
+    "Name": "party_listFocus",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD813D640",
+    "Name": "party_lobbyPlayerCount",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x497829D9",
+    "Name": "party_mapname",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x37CC37EC",
+    "Name": "party_mappacks",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD9D0A098",
+    "Name": "party_matchedPlayerCount",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC8332E96",
+    "Name": "party_maxplayers",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD28115BD",
+    "Name": "party_maxPrivatePartyPlayers",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1D93BA4A",
+    "Name": "party_maxSearchTier",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2B350526",
+    "Name": "party_maxTeamDiff",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF9275338",
+    "Name": "party_membersMissingMapPack",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x224A592F",
+    "Name": "party_minLobbyTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9A9CAC68",
+    "Name": "party_minplayers",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5891AF39",
+    "Name": "party_msPerTier",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x25555514",
+    "Name": "party_partyPlayerCount",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xCC423CB7",
+    "Name": "party_playervisible",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2AF6AEB0",
+    "Name": "party_pregameStartTimerLength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE5A804EB",
+    "Name": "party_searchPauseTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7C553FDA",
+    "Name": "party_searchRandomDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAC5919D5",
+    "Name": "party_searchResultsLifetime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD788BB0C",
+    "Name": "party_searchResultsMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x499B13BD",
+    "Name": "party_selectedIndex",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9FFC7512",
+    "Name": "party_selectedIndexChangedTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x128D2A93",
+    "Name": "party_statusString",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB59B7E5E",
+    "Name": "party_teambased",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE124D2A2",
+    "Name": "party_teamsVisible",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x451F6695",
+    "Name": "party_timer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x15EE162A",
+    "Name": "party_vetoButtonVisible",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x360F29C2",
+    "Name": "party_vetoDelayTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x66BC1C6A",
+    "Name": "party_vetoPassed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFFA97730",
+    "Name": "party_vetoPercentRequired",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1EDA0F6",
+    "Name": "party_vetoStatus",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD8CE3584",
+    "Name": "partymigrate_broadcast_interval",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x88A8D008",
+    "Name": "partymigrate_cpuBonusPing",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xADB1C227",
+    "Name": "partymigrate_cpuBonusThreshold",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xADA73F32",
+    "Name": "partymigrate_pingtest_retry",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9D7E39C1",
+    "Name": "partymigrate_pingtest_timeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3396DB06",
+    "Name": "partymigrate_selectiontime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3930BF10",
+    "Name": "partymigrate_timeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCE4818BC",
+    "Name": "partymigrate_timeoutmax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9E7D10FD",
+    "Name": "perk_armorPiercingDamage",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCD6BF1DF",
+    "Name": "perk_blastShield",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE5C2CC13",
+    "Name": "perk_diveDistanceCheck",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC5EB27D8",
+    "Name": "perk_diveGravityScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xAA353501",
+    "Name": "perk_diveVelocity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x96B1AB04",
+    "Name": "perk_diveViewRollResetSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x486535E9",
+    "Name": "perk_diveViewRollSpeed",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x23130DF",
+    "Name": "perk_diveViewRollTarget",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x403A3A33",
+    "Name": "perk_extendedMagsMGAmmo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8CB6B03C",
+    "Name": "perk_extendedMagsPistolAmmo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7530B675",
+    "Name": "perk_extendedMagsRifleAmmo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB0B22D88",
+    "Name": "perk_extendedMagsSMGAmmo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDFB19600",
+    "Name": "perk_extendedMagsSpreadAmmo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA9D194EC",
+    "Name": "perk_extendedMeleeRange",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA0037AB1",
+    "Name": "perk_fastSnipeScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF413AC08",
+    "Name": "perk_footstepVolumeAlly",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCABB24FA",
+    "Name": "perk_footstepVolumeEnemy",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5972A18B",
+    "Name": "perk_footstepVolumePlayer",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5470B48C",
+    "Name": "perk_improvedExtraBreath",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9CFC702C",
+    "Name": "perk_lightWeightViewBobScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x55B61FBA",
+    "Name": "perk_quickDrawSpeedScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF4A2CA67",
+    "Name": "perk_scavengerMode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE9C25D3C",
+    "Name": "perk_sprintRecoveryMultiplierActual",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB9751BC6",
+    "Name": "perk_sprintRecoveryMultiplierVisual",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x13CA3A17",
+    "Name": "phys_autoDisableAngular",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3665F06F",
+    "Name": "phys_autoDisableFastAngular",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6B000C30",
+    "Name": "phys_autoDisableFastLinear",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x90AE5E08",
+    "Name": "phys_autoDisableFastTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x92BF9088",
+    "Name": "phys_autoDisableLinear",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB4427410",
+    "Name": "phys_autoDisableTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8688F7C",
+    "Name": "phys_bulletSpinScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4164D974",
+    "Name": "phys_bulletUpBias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9D1ADB8E",
+    "Name": "phys_cfm",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3AC26884",
+    "Name": "phys_collUseEntities",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD60816A9",
+    "Name": "phys_contact_cfm",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x985AFE39",
+    "Name": "phys_contact_cfm_ragdoll",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1DEEC4B6",
+    "Name": "phys_contact_cfm_vehicle",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x4B92DBD0",
+    "Name": "phys_contact_cfm_vehicleSoft",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7289E0F6",
+    "Name": "phys_contact_erp",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE9032F46",
+    "Name": "phys_contact_erp_ragdoll",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xD9012F99",
+    "Name": "phys_contact_erp_vehicle",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xFBC8635F",
+    "Name": "phys_contact_erp_vehicleSoft",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x8B1D79C2",
+    "Name": "phys_csl",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB74DEF8C",
+    "Name": "phys_dragAngular",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x491A6F7B",
+    "Name": "phys_dragLinear",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xB810C1D7",
+    "Name": "phys_drawAwake",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x60967F8F",
+    "Name": "phys_drawCollisionObj",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5A4D12F2",
+    "Name": "phys_drawCollisionWorld",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3EE00B4D",
+    "Name": "phys_drawcontacts",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x11069D39",
+    "Name": "phys_drawDebugInfo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4C9648A1",
+    "Name": "phys_dumpcontacts",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF3442131",
+    "Name": "phys_erp",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x387D4E94",
+    "Name": "phys_frictionScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2C6BCB40",
+    "Name": "phys_gravity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2C3AC050",
+    "Name": "phys_gravity_ragdoll",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x47526EBB",
+    "Name": "phys_gravityChangeWakeupRadius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFF2623CA",
+    "Name": "phys_jitterMaxMass",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x88AC7AF7",
+    "Name": "phys_joint_cfm",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9D2C7BA0",
+    "Name": "phys_joint_stop_cfm",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x2FDA891F",
+    "Name": "phys_joint_stop_erp",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6A6544EA",
+    "Name": "phys_jointPullThreshold",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9784CDD6",
+    "Name": "phys_mcv",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9C1440E6",
+    "Name": "phys_mcv_ragdoll",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7CF5EA39",
+    "Name": "phys_mcv_vehicle",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9F4F9266",
+    "Name": "phys_minImpactMomentum",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x121C0546",
+    "Name": "phys_narrowObjMaxLength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x58ACED1",
+    "Name": "phys_noIslands",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD5C90EC5",
+    "Name": "phys_qsi",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7A96E62",
+    "Name": "phys_reorderConst",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8768F321",
+    "Name": "physVeh_collideWithClipOnly",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA647EEFF",
+    "Name": "physVeh_explodeForce",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB9EDE526",
+    "Name": "physVeh_explodeSpinScale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x864803CF",
+    "Name": "physVeh_jump",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8D835FAD",
+    "Name": "physVeh_minImpactMomentum",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF4F4631D",
+    "Name": "physVeh_pathConstraintCfm",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xA4E2D1A2",
+    "Name": "physVeh_pathConstraintErp",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3D1E6E69",
+    "Name": "physVeh_slideReductionForHighSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x14D553EE",
+    "Name": "physVeh_StepsPerFrame",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5420274D",
+    "Name": "player_lastStandCrawlSpeedScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x70CE3FA8",
+    "Name": "player_lastStandDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x33E4FD39",
+    "Name": "player_runThreshhold",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDAFF7BE2",
+    "Name": "player_sprintUnlimited",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE2CFFDDD",
+    "Name": "playlist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBE195624",
+    "Name": "playlistFilename",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8DFEF53F",
+    "Name": "privateMatch_joinPassword",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x4056E70",
+    "Name": "privateMatch_serverPassword",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xE22C9B9E",
+    "Name": "profileMenuOption_blacklevel",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8D6BCF80",
+    "Name": "profileMenuOption_gamma",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x72E24C5E",
+    "Name": "profileMenuOption_safeAreaHorz",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA3F92C04",
+    "Name": "profileMenuOption_safeAreaVert",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3625D9BF",
+    "Name": "profileMenuOption_volume",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x666821CB",
+    "Name": "r_atlasAnimFPS",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB9811A63",
+    "Name": "r_detailMap",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x3CE0B846",
+    "Name": "r_dpvsFilterDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9B8DB4A0",
+    "Name": "r_filmAltShader",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2969B5A5",
+    "Name": "r_filmTweakDesaturationDark",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3BFACB8E",
+    "Name": "r_filmTweakMediumTint",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x647C6920",
+    "Name": "r_heroLighting",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9032CF50",
+    "Name": "r_lightCacheLessFrequentMaxDistance",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBD300512",
+    "Name": "r_lightCacheLessFrequentPeriod",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA51DCD4A",
+    "Name": "r_lightGridContrast",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB7A56426",
+    "Name": "r_lightGridEnableTweaks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x76E5D5A7",
+    "Name": "r_lightGridIntensity",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD59BDE2E",
+    "Name": "r_lightGridUseTweakedValues",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53B64E9B",
+    "Name": "r_primaryLightTweakDiffuseStrength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDD954D0A",
+    "Name": "r_primaryLightTweakSpecularStrength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA0E23C10",
+    "Name": "r_primaryLightUseTweaks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD75E9F49",
+    "Name": "r_showPortalsOverview",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB2E41ECD",
+    "Name": "r_smc_optimize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBB261293",
+    "Name": "r_spotLightExponent",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9020AE68",
+    "Name": "r_spotLightMaxLength",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE6655726",
+    "Name": "r_subwindow",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x75D5B927",
+    "Name": "radarjamDistMax",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6F642C09",
+    "Name": "radarjamDistMin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC6385172",
+    "Name": "radarjamSinCurve",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3BF0DBA",
+    "Name": "ragdoll_exploding_bullet_force",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x39BFBED3",
+    "Name": "ragdoll_exploding_bullet_upbias",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x1AFBA208",
+    "Name": "ragdoll_idle_min_velsq",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD220219F",
+    "Name": "ragdoll_max_stretch_pct",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x21C715E2",
+    "Name": "ragdoll_stretch_iters",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE105F5",
+    "Name": "reliableResendTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8735F3ED",
+    "Name": "reliableTimeoutTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x70F7E090",
+    "Name": "RemoteCameraSounds_DryLevel",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF10B97CE",
+    "Name": "RemoteCameraSounds_RoomType",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xDECFC99",
+    "Name": "RemoteCameraSounds_WetLevel",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x98D064F9",
+    "Name": "requireOpenNat",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFA9E8BEF",
+    "Name": "safeArea_adjusted_horizontal",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1B7105EB",
+    "Name": "safeArea_adjusted_vertical",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3C2899B4",
+    "Name": "safeArea_horizontal",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x83BFE820",
+    "Name": "safeArea_vertical",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xBA2574AA",
+    "Name": "scr_airdrop_ac130",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9C132024",
+    "Name": "scr_airdrop_ammo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5B21903",
+    "Name": "scr_airdrop_counter_uav",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3EFC5B6A",
+    "Name": "scr_airdrop_emp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x564EF2CA",
+    "Name": "scr_airdrop_harrier_airstrike",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE47FCF4D",
+    "Name": "scr_airdrop_helicopter",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5BE82085",
+    "Name": "scr_airdrop_helicopter_flares",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC08BF4DD",
+    "Name": "scr_airdrop_helicopter_minigun",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x358216B3",
+    "Name": "scr_airdrop_mega_ac130",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2FE4E395",
+    "Name": "scr_airdrop_mega_ammo",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x143454BA",
+    "Name": "scr_airdrop_mega_counter_uav",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6E6EA273",
+    "Name": "scr_airdrop_mega_emp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2C1B3943",
+    "Name": "scr_airdrop_mega_harrier_airstrike",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC982091C",
+    "Name": "scr_airdrop_mega_helicopter",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x44C302FC",
+    "Name": "scr_airdrop_mega_helicopter_flares",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6F77325C",
+    "Name": "scr_airdrop_mega_helicopter_minigun",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3BEE8DE6",
+    "Name": "scr_airdrop_mega_nuke",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x71EC5E2A",
+    "Name": "scr_airdrop_mega_precision_airstrike",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x760E40DB",
+    "Name": "scr_airdrop_mega_predator_missile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBA216074",
+    "Name": "scr_airdrop_mega_sentry",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE7D916BF",
+    "Name": "scr_airdrop_mega_stealth_airstrike",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x127C25B9",
+    "Name": "scr_airdrop_mega_uav",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFB3FA197",
+    "Name": "scr_airdrop_nuke",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x65B0CAC3",
+    "Name": "scr_airdrop_precision_airstrike",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x86C1117A",
+    "Name": "scr_airdrop_predator_missile",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3F9142C5",
+    "Name": "scr_airdrop_sentry",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x578D1536",
+    "Name": "scr_airdrop_stealth_airstrike",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2E60A350",
+    "Name": "scr_airdrop_uav",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53523F3B",
+    "Name": "scr_arena_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD603056",
+    "Name": "scr_arena_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD726853F",
+    "Name": "scr_arena_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1489E940",
+    "Name": "scr_arena_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x42430925",
+    "Name": "scr_arena_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x95BC4830",
+    "Name": "scr_arena_timelimit",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF6FDCB6D",
+    "Name": "scr_arena_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x52BC1CC6",
+    "Name": "scr_ctf_halftime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBD6232BE",
+    "Name": "scr_ctf_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF506D25F",
+    "Name": "scr_ctf_returntime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4C435045",
+    "Name": "scr_ctf_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x53A85875",
+    "Name": "scr_dd_addtime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x772CE084",
+    "Name": "scr_dd_bombtimer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC713AF50",
+    "Name": "scr_dd_defusetime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB98F3D3A",
+    "Name": "scr_dd_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDE248503",
+    "Name": "scr_dd_planttime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3468DE1B",
+    "Name": "scr_dd_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x536F3E3F",
+    "Name": "scr_dd_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7A2172BE",
+    "Name": "scr_dd_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x236F4249",
+    "Name": "scr_dd_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC65A83D4",
+    "Name": "scr_dd_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFDBC649",
+    "Name": "scr_dd_timelimit",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA87210A5",
+    "Name": "scr_dd_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x433193AC",
+    "Name": "scr_dd_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9C0DDD01",
+    "Name": "scr_diehard",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE3E39D86",
+    "Name": "scr_dm_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF37C93DD",
+    "Name": "scr_dm_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4B44A891",
+    "Name": "scr_dom_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x84F6C4E2",
+    "Name": "scr_dom_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC1CAA82F",
+    "Name": "scr_explBulletMod",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFD94ECC2",
+    "Name": "scr_game_killstreakdelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6A52E398",
+    "Name": "scr_gtnw_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA14F2CB9",
+    "Name": "scr_gtnw_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2D4B10ED",
+    "Name": "scr_gtnw_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA06309BC",
+    "Name": "scr_gtnw_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8570663B",
+    "Name": "scr_gtnw_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5E7F1956",
+    "Name": "scr_gtnw_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xED4A18DB",
+    "Name": "scr_gtnw_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x675B25C7",
+    "Name": "scr_gtnw_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCB0180CE",
+    "Name": "scr_gtnw_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6034C19F",
+    "Name": "scr_koth_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD9267B4C",
+    "Name": "scr_koth_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4E0FC0A",
+    "Name": "scr_maxPerPlayerExplosives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4E9E9D5E",
+    "Name": "scr_nukeCancelMode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD759310C",
+    "Name": "scr_nukeTimer",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6776AC8A",
+    "Name": "scr_oneflag_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6972BA0B",
+    "Name": "scr_oneflag_playerrespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x50140D6F",
+    "Name": "scr_oneflag_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2707D34E",
+    "Name": "scr_oneflag_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x40D451D9",
+    "Name": "scr_oneflag_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB6E201E4",
+    "Name": "scr_oneflag_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBB6F7539",
+    "Name": "scr_oneflag_timelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9724B335",
+    "Name": "scr_oneflag_waverespawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x611D315C",
+    "Name": "scr_oneflag_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x999F5A8F",
+    "Name": "scr_patientZero",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xD39421EA",
+    "Name": "scr_RequiredMapAspectratio",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x37AEE2C3",
+    "Name": "scr_restxp_cap",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x5AFB2FF0",
+    "Name": "scr_restxp_enable",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE6EB627",
+    "Name": "scr_restxp_levelsPerDay",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x6F7672BE",
+    "Name": "scr_restxp_minRestTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBA90C6F1",
+    "Name": "scr_restxp_restedAwardScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x814182AC",
+    "Name": "scr_restxp_timescale",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA9BEDAE4",
+    "Name": "scr_riotShieldXPBullets",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3CFAE87",
+    "Name": "scr_sab_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x79B5A4C4",
+    "Name": "scr_sab_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4BA62910",
+    "Name": "scr_sd_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD5726F7B",
+    "Name": "scr_sd_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x75BB3690",
+    "Name": "scr_thirdPerson",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB8D6E0D",
+    "Name": "scr_tispawndelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6C414BA5",
+    "Name": "scr_vip_numlives",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x34C9B98",
+    "Name": "scr_vip_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2D16CCA1",
+    "Name": "scr_vip_roundlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7615AADE",
+    "Name": "scr_vip_roundswitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2FE9815B",
+    "Name": "scr_vip_scorelimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x168A33CE",
+    "Name": "scr_vip_timelimit",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xCC6418B3",
+    "Name": "scr_vip_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x97829933",
+    "Name": "scr_war_promode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3A18E1D0",
+    "Name": "scr_war_winlimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD725A8CC",
+    "Name": "sentry_placement_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x148776F5",
+    "Name": "sentry_placement_feet_offset",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAF0940F9",
+    "Name": "sentry_placement_feet_trace_dist_z",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF81F609",
+    "Name": "sentry_placement_trace_dist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x59377A8D",
+    "Name": "sentry_placement_trace_min_normal",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xFF7D1D15",
+    "Name": "sentry_placement_trace_pitch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAF2E29DB",
+    "Name": "sentry_placement_trace_radius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7FD57582",
+    "Name": "sentry_placement_trace_radius_canon_safety",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x556D6F3D",
+    "Name": "session_immediateDeleteTinySessions",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xECB4B76C",
+    "Name": "session_nonblocking",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x69684FB2",
+    "Name": "shieldImpactBulletShakeDuration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDDD03244",
+    "Name": "shieldImpactBulletShakeScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x9816C967",
+    "Name": "shieldImpactExplosionHighShakeDuration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x764EEBA9",
+    "Name": "shieldImpactExplosionHighShakeScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF22E695",
+    "Name": "shieldImpactExplosionLowShakeDuration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1DE4F22B",
+    "Name": "shieldImpactExplosionLowShakeScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xE253FFF4",
+    "Name": "shieldImpactExplosionThreshold",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBDF83B38",
+    "Name": "shieldImpactMissileShakeDuration",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAB1CC2BE",
+    "Name": "shieldImpactMissileShakeScale",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA2CAD3F6",
+    "Name": "sm_minSpotLightScore",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x885DCF1E",
+    "Name": "sm_spotDistCull",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x56BCAF17",
+    "Name": "sm_spotLimit",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC3957545",
+    "Name": "splitscreen",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA4ED7026",
+    "Name": "stringtable_debug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6A9A356",
+    "Name": "sv_allowClientConsole",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xFCBCE3E7",
+    "Name": "sv_hugeSnapshotDelay",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC374CA8F",
+    "Name": "sv_hugeSnapshotSize",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE10EDEFD",
+    "Name": "sv_network_fps",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x18AE4707",
+    "Name": "sv_privateClientsForClients",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8686EEE7",
+    "Name": "sv_rejoinTimeout",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE807ADC0",
+    "Name": "sys_quitMigrateTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xC8524E96",
+    "Name": "systemlink",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3ACE43B",
+    "Name": "testClients_doAttack",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x252B11FB",
+    "Name": "testClients_doCrouch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x866C185A",
+    "Name": "testClients_doMove",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x720DA2FA",
+    "Name": "testClients_doReload",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9D701BD4",
+    "Name": "testClients_watchKillcam",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x214F9843",
+    "Name": "thermal_playerModel",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xEBF0807",
+    "Name": "thermalBlurFactorNoScope",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x780E193E",
+    "Name": "thermalBlurFactorScope",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1BCF926",
+    "Name": "tracer_debugDraw",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF87CDB74",
+    "Name": "tracer_explosiveColor1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB2872327",
+    "Name": "tracer_explosiveColor2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x1F2E6096",
+    "Name": "tracer_explosiveColor3",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x3E7293C1",
+    "Name": "tracer_explosiveColor4",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xAB19D130",
+    "Name": "tracer_explosiveColor5",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x652418E3",
+    "Name": "tracer_explosiveColor6",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xB5C17534",
+    "Name": "tracer_explosiveOverride",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCD34050E",
+    "Name": "tracer_explosiveWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAAAF30CA",
+    "Name": "tracer_firstPersonMaxWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x85D4BAEC",
+    "Name": "tracer_stoppingPowerColor1",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x3FDF029F",
+    "Name": "tracer_stoppingPowerColor2",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xAC86400E",
+    "Name": "tracer_stoppingPowerColor3",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xCBCA7339",
+    "Name": "tracer_stoppingPowerColor4",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x3871B0A8",
+    "Name": "tracer_stoppingPowerColor5",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xF27BF85B",
+    "Name": "tracer_stoppingPowerColor6",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x750998DC",
+    "Name": "tracer_stoppingPowerOverride",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAF739F36",
+    "Name": "tracer_stoppingPowerWidth",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD06D7A",
+    "Name": "tracer_thermalWidthMult",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4F7B12AF",
+    "Name": "turret_adsEnabled",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xABFFF875",
+    "Name": "turret_adsFov",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x50ABBAFF",
+    "Name": "turret_adsTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x6ABA1263",
+    "Name": "turret_fov",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x7608DFAE",
+    "Name": "ui_currentFeederMapIndex",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3B679132",
+    "Name": "ui_debugMode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1B0D10CD",
+    "Name": "ui_partyFull",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4FF7CF50",
+    "Name": "ui_playerPartyColor",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xAA969E8C",
+    "Name": "ui_sliderSteps",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD0A4422B",
+    "Name": "ui_textScrollFadeTime",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x7BCF0F1D",
+    "Name": "ui_textScrollPauseEnd",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x33A28D12",
+    "Name": "ui_textScrollPauseStart",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x2F0A03FF",
+    "Name": "ui_textScrollSpeed",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x94361C5D",
+    "Name": "upnp_maxAttempts",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xDDC30DED",
+    "Name": "useMapPreloading",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA3C69226",
+    "Name": "useonlinestats",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x645C10BF",
+    "Name": "useRelativeTeamColors",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5C9FD588",
+    "Name": "useSvMapPreloading",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4EA33B75",
+    "Name": "useTagFlashSilenced",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3F2F3B90",
+    "Name": "veh_boneControllerLodDist",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xA87EC33",
+    "Name": "vehAudio_inAirPitchDownLerp",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x2A2FF604",
+    "Name": "vehAudio_inAirPitchUpLerp",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x3E74572F",
+    "Name": "vehAudio_spawnVolumeTime",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xBE4D461A",
+    "Name": "vehCam_angles",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x8C7EF6A7",
+    "Name": "vehCam_editMode",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9985CEE3",
+    "Name": "vehCam_freeLook",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x859ADCED",
+    "Name": "vehCam_offset",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x676DFCED",
+    "Name": "vehCam_pitchClamp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x379D2939",
+    "Name": "vehCam_pitchTurnRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x241C49F0",
+    "Name": "vehCam_radius",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x1AB5D2B2",
+    "Name": "vehCam_speedInfluence",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xCAD536E4",
+    "Name": "vehCam_yawClamp",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xF3008978",
+    "Name": "vehCam_yawTurnRate",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5472E2BC",
+    "Name": "vehCam_zOffsetMode",
+    "Type": "string"
+  },
+  {
+    "Hash": "0xAD00A14",
+    "Name": "viewModelDebugNotetracks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3A3CE60B",
+    "Name": "viewModelHacks",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x99E5D944",
+    "Name": "viewposNow",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x35A8FB6C",
+    "Name": "voiceDebug",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x599E7311",
+    "Name": "voiceDegrade",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3F560B65",
+    "Name": "winvoice_loopback",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD06ABD6B",
+    "Name": "xblive_hostingprivateparty",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xE0A58FBD",
+    "Name": "xblive_loggedin",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAC0B7DA9",
+    "Name": "xblive_playEvenIfDown",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x8DA26386",
+    "Name": "xblive_privatematch",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x09CE586D",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x0012C660",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x0B167713",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x064A1942",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x266A185C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x83E792E0",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x77904502",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x0668BF7D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x3502C932",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x99E6D1DD",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x57ABC396",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x039A2571",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x17E45E5C",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x9497514D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xAFB75BCF",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x4936FE13",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xB3B5C1A5",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xA062F081",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x02237A1F",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x0DD8BADA",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x0B39835C",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x02CAFF45",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x025AE174",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x0A4DB26C",
+    "Type": "int"
+  }
+]
