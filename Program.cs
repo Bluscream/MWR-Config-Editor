@@ -13,8 +13,10 @@ namespace MWR_Config_Editor
             public bool ConsoleEnabled { get; set; }
             [Option('f', "file", Required = false, HelpText = "Auto open specific config file by path")]
             public string ConfigFilePath { get; set; }
-            [Option("save-as-names", Required = false, HelpText = "Weither to save the config with name values instead of hashes by default")]
-            public bool SaveAsNames { get; set; }
+            [Option("save-as-names", Required = false, HelpText = "Wether to save the config with name values instead of hashes by default")]
+            public bool SaveAsNames { get; set; } = true;
+            [Option("indent", Required = false, HelpText = "Wether to indent the config for better readability")]
+            public bool Indent { get; set; } = true;
         }
         /// <summary>
         /// The main entry point for the application.

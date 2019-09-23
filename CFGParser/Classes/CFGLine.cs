@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -11,14 +12,23 @@ namespace CFGParser.Classes
     public class CFGLine
     {
         public string Command { get; set; }
-        public DVAR DVAR { get; set; } // = new DVAR();
+        public object dvar {
+            get { return DVAR; } set {
+                var val = (string)value;
+                if (val.IsHash()) DVAR.Hash = val;
+                else DVAR.Name = val;
+            } }
+        [Browsable(false)]
+        public DVAR DVAR { get; set; } = new DVAR();
         public string Value { get; set; }
         public string Comment { get; set; }
+        [Browsable(false)]
+        public bool isComment { get { return Command is null && Value is null && Comment != null; } }
         public CFGLine(string command, string dvar, string value) {
             Command = command; DVAR.Hash = dvar; Value = value;
         }
+        public CFGLine() { }
         public CFGLine(string line, List<DVAR> dvarInfo) {
-            DVAR = new DVAR();
             var regex = Utils.CFGLinePattern.Match(line);
             if (regex.Success)
             {

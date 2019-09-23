@@ -1,5 +1,5 @@
-﻿//using Newtonsoft.Json;
-//using Newtonsoft.Json.Converters;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
@@ -143,9 +143,9 @@ namespace MWR_Config_Editor
         }
         #endregion
         #region Object
-        //public static string ToJson(this object obj, bool indented = true) {
-        //    return JsonConvert.SerializeObject(obj, (indented ? Formatting.Indented : Formatting.None), new JsonConverter[] { new StringEnumConverter() });
-        //}
+        public static string ToJson(this object obj, bool indented = true) {
+            return JsonConvert.SerializeObject(obj, (indented ? Formatting.Indented : Formatting.None), new JsonConverter[] { new StringEnumConverter() });
+        }
 #endregion
  #region String
     public static IEnumerable<string> SplitToLines(this string input)

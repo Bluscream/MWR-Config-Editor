@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Text.RegularExpressions;
 using MWR_Config_Editor;
@@ -10,8 +11,8 @@ namespace CFGParser.Classes
     }
     public class CFGData
     {
-        public List<string> Comments { get; set; } = new List<string>();
-        public List<CFGLine> Lines { get; set; } = new List<CFGLine>();
+        // public List<string> Comments { get; set; } = new List<string>();
+        public BindingList<CFGLine> Lines { get; set; } = new BindingList<CFGLine>();
         public string Raw { get; set; }
         public CFGData() { }
         public CFGData(string input) {

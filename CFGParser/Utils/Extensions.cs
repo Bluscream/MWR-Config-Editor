@@ -21,5 +21,9 @@ namespace CFGParser
             // var str = "0x" + BitConverter.ToString(byte_hash).Replace("-", "");
             return uint32_hex;
         }
+        public static bool IsHash(this string source)
+        {
+            return source.StartsWith("0x");
+        }
     }
 }
