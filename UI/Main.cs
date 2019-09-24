@@ -149,16 +149,15 @@ namespace MWR_Config_Editor
 
         }
 
-        private void saveAsNamesToolStripMenuItem_Click(object sender, EventArgs e) => ToggleSetting("SaveAsNames", (ToolStripMenuItem)sender);
-       private void indentOnSaveToolStripMenuItem_Click(object sender, EventArgs e) => ToggleSetting("Indent", (ToolStripMenuItem)sender);
-        private void toggleConsoleToolStripMenuItem_Click(object sender, EventArgs e) => ToggleSetting("Console", (ToolStripMenuItem)sender);
-        private void ToggleSetting(string setting, ToolStripMenuItem selectedMenuItem) {
+        private void ToggleSetting(object sender, EventArgs e) {
+            if (sender is null) return;
+            var selectedMenuItem = (ToolStripMenuItem)sender;
             if (selectedMenuItem is null) return;
             selectedMenuItem.Checked ^= true;
-            switch (setting) {
-                case "SaveAsNames": Program.Arguments.SaveAsNames = selectedMenuItem.Checked; break;
-                case "Indent": Program.Arguments.Indent = selectedMenuItem.Checked; break;
-                case "Console": Program.Arguments.ConsoleEnabled = selectedMenuItem.Checked;
+            switch (selectedMenuItem.Name) {
+                case "saveAsNamesToolStripMenuItem": Program.Arguments.SaveAsNames = selectedMenuItem.Checked; break;
+                case "indentOnSaveToolStripMenuItem": Program.Arguments.Indent = selectedMenuItem.Checked; break;
+                case "toggleConsoleToolStripMenuItem": Program.Arguments.ConsoleEnabled = selectedMenuItem.Checked;
                     if (selectedMenuItem.Checked) ExternalConsole.InitConsole();
                     else ExternalConsole.Dispose();
                     break;

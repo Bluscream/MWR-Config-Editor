@@ -232,7 +232,7 @@
             this.indentOnSaveToolStripMenuItem.Name = "indentOnSaveToolStripMenuItem";
             this.indentOnSaveToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.indentOnSaveToolStripMenuItem.Text = "Indent on Save";
-            this.indentOnSaveToolStripMenuItem.Click += new System.EventHandler(this.indentOnSaveToolStripMenuItem_Click);
+            this.indentOnSaveToolStripMenuItem.Click += new System.EventHandler(this.ToggleSetting);
             // 
             // saveAsNamesToolStripMenuItem
             // 
@@ -241,7 +241,7 @@
             this.saveAsNamesToolStripMenuItem.Name = "saveAsNamesToolStripMenuItem";
             this.saveAsNamesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.saveAsNamesToolStripMenuItem.Text = "Save as Names";
-            this.saveAsNamesToolStripMenuItem.Click += new System.EventHandler(this.saveAsNamesToolStripMenuItem_Click);
+            this.saveAsNamesToolStripMenuItem.Click += new System.EventHandler(this.ToggleSetting);
             // 
             // toolStripSeparator1
             // 
@@ -255,7 +255,7 @@
             this.toggleConsoleToolStripMenuItem.Name = "toggleConsoleToolStripMenuItem";
             this.toggleConsoleToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.toggleConsoleToolStripMenuItem.Text = "Toggle Console";
-            this.toggleConsoleToolStripMenuItem.Click += new System.EventHandler(this.toggleConsoleToolStripMenuItem_Click);
+            this.toggleConsoleToolStripMenuItem.Click += new System.EventHandler(this.ToggleSetting);
             // 
             // Main
             // 
