@@ -21,6 +21,7 @@ namespace MWR_Config_Editor
             InitializeComponent();
             indentOnSaveToolStripMenuItem.Checked = Program.Arguments.Indent;
             saveAsNamesToolStripMenuItem.Checked = Program.Arguments.SaveAsNames;
+            toggleConsoleToolStripMenuItem.Checked = Program.Arguments.ConsoleEnabled;
             if (Program.Arguments.ConfigFilePath != null) LoadConfig(Program.Arguments.ConfigFilePath);
             else SearchConfig();
         }
@@ -150,12 +151,17 @@ namespace MWR_Config_Editor
 
         private void saveAsNamesToolStripMenuItem_Click(object sender, EventArgs e) => ToggleSetting("SaveAsNames", (ToolStripMenuItem)sender);
        private void indentOnSaveToolStripMenuItem_Click(object sender, EventArgs e) => ToggleSetting("Indent", (ToolStripMenuItem)sender);
+        private void toggleConsoleToolStripMenuItem_Click(object sender, EventArgs e) => ToggleSetting("Console", (ToolStripMenuItem)sender);
         private void ToggleSetting(string setting, ToolStripMenuItem selectedMenuItem) {
             if (selectedMenuItem is null) return;
             selectedMenuItem.Checked ^= true;
             switch (setting) {
                 case "SaveAsNames": Program.Arguments.SaveAsNames = selectedMenuItem.Checked; break;
                 case "Indent": Program.Arguments.Indent = selectedMenuItem.Checked; break;
+                case "Console": Program.Arguments.ConsoleEnabled = selectedMenuItem.Checked;
+                    if (selectedMenuItem.Checked) ExternalConsole.InitConsole();
+                    else ExternalConsole.Dispose();
+                    break;
                 default: break;
             }
         }

@@ -35,8 +35,8 @@
             this.menu_main = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reloadConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.saveAsNamesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openConfigExternallyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openToolConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -45,12 +45,14 @@
             this.table_config = new System.Windows.Forms.DataGridView();
             this.menu_dvar = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.changeNameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.indentOnSaveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.reloadConfigToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menu_list = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.addLineToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.removeLineToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.optionsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.indentOnSaveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.saveAsNamesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.toggleConsoleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.status.SuspendLayout();
             this.menu_main.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.table_config)).BeginInit();
@@ -77,6 +79,7 @@
             // 
             this.menu_main.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
+            this.optionsToolStripMenuItem,
             this.helToolStripMenuItem});
             this.menu_main.Location = new System.Drawing.Point(0, 0);
             this.menu_main.Name = "menu_main";
@@ -89,10 +92,7 @@
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.loadConfigToolStripMenuItem,
             this.reloadConfigToolStripMenuItem,
-            this.saveConfigToolStripMenuItem,
-            this.toolStripSeparator1,
-            this.saveAsNamesToolStripMenuItem,
-            this.indentOnSaveToolStripMenuItem});
+            this.saveConfigToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(39, 21);
             this.fileToolStripMenuItem.Text = "File";
@@ -104,6 +104,14 @@
             this.loadConfigToolStripMenuItem.Text = "Load Config";
             this.loadConfigToolStripMenuItem.Click += new System.EventHandler(this.loadConfigToolStripMenuItem_Click);
             // 
+            // reloadConfigToolStripMenuItem
+            // 
+            this.reloadConfigToolStripMenuItem.Enabled = false;
+            this.reloadConfigToolStripMenuItem.Name = "reloadConfigToolStripMenuItem";
+            this.reloadConfigToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.reloadConfigToolStripMenuItem.Text = "Reload Config";
+            this.reloadConfigToolStripMenuItem.Click += new System.EventHandler(this.reloadConfigToolStripMenuItem_Click);
+            // 
             // saveConfigToolStripMenuItem
             // 
             this.saveConfigToolStripMenuItem.Enabled = false;
@@ -111,15 +119,6 @@
             this.saveConfigToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.saveConfigToolStripMenuItem.Text = "Save Config";
             this.saveConfigToolStripMenuItem.Click += new System.EventHandler(this.saveConfigToolStripMenuItem_Click);
-            // 
-            // saveAsNamesToolStripMenuItem
-            // 
-            this.saveAsNamesToolStripMenuItem.Checked = true;
-            this.saveAsNamesToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.saveAsNamesToolStripMenuItem.Name = "saveAsNamesToolStripMenuItem";
-            this.saveAsNamesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.saveAsNamesToolStripMenuItem.Text = "Save as Names";
-            this.saveAsNamesToolStripMenuItem.Click += new System.EventHandler(this.saveAsNamesToolStripMenuItem_Click);
             // 
             // helToolStripMenuItem
             // 
@@ -193,6 +192,39 @@
             this.changeNameToolStripMenuItem.Text = "Change Info";
             this.changeNameToolStripMenuItem.Click += new System.EventHandler(this.changeNameToolStripMenuItem_Click);
             // 
+            // menu_list
+            // 
+            this.menu_list.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.addLineToolStripMenuItem,
+            this.removeLineToolStripMenuItem});
+            this.menu_list.Name = "menu_list";
+            this.menu_list.Size = new System.Drawing.Size(148, 48);
+            // 
+            // addLineToolStripMenuItem
+            // 
+            this.addLineToolStripMenuItem.Name = "addLineToolStripMenuItem";
+            this.addLineToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.addLineToolStripMenuItem.Text = "Add Line";
+            this.addLineToolStripMenuItem.Click += new System.EventHandler(this.addLineToolStripMenuItem_Click);
+            // 
+            // removeLineToolStripMenuItem
+            // 
+            this.removeLineToolStripMenuItem.Name = "removeLineToolStripMenuItem";
+            this.removeLineToolStripMenuItem.Size = new System.Drawing.Size(147, 22);
+            this.removeLineToolStripMenuItem.Text = "Remove Line";
+            this.removeLineToolStripMenuItem.Click += new System.EventHandler(this.removeLineToolStripMenuItem_Click);
+            // 
+            // optionsToolStripMenuItem
+            // 
+            this.optionsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.saveAsNamesToolStripMenuItem,
+            this.indentOnSaveToolStripMenuItem,
+            this.toolStripSeparator1,
+            this.toggleConsoleToolStripMenuItem});
+            this.optionsToolStripMenuItem.Name = "optionsToolStripMenuItem";
+            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(63, 21);
+            this.optionsToolStripMenuItem.Text = "Options";
+            // 
             // indentOnSaveToolStripMenuItem
             // 
             this.indentOnSaveToolStripMenuItem.Checked = true;
@@ -202,40 +234,28 @@
             this.indentOnSaveToolStripMenuItem.Text = "Indent on Save";
             this.indentOnSaveToolStripMenuItem.Click += new System.EventHandler(this.indentOnSaveToolStripMenuItem_Click);
             // 
+            // saveAsNamesToolStripMenuItem
+            // 
+            this.saveAsNamesToolStripMenuItem.Checked = true;
+            this.saveAsNamesToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.saveAsNamesToolStripMenuItem.Name = "saveAsNamesToolStripMenuItem";
+            this.saveAsNamesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.saveAsNamesToolStripMenuItem.Text = "Save as Names";
+            this.saveAsNamesToolStripMenuItem.Click += new System.EventHandler(this.saveAsNamesToolStripMenuItem_Click);
+            // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
             this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
             // 
-            // reloadConfigToolStripMenuItem
+            // toggleConsoleToolStripMenuItem
             // 
-            this.reloadConfigToolStripMenuItem.Enabled = false;
-            this.reloadConfigToolStripMenuItem.Name = "reloadConfigToolStripMenuItem";
-            this.reloadConfigToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.reloadConfigToolStripMenuItem.Text = "Reload Config";
-            this.reloadConfigToolStripMenuItem.Click += new System.EventHandler(this.reloadConfigToolStripMenuItem_Click);
-            // 
-            // menu_list
-            // 
-            this.menu_list.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.addLineToolStripMenuItem,
-            this.removeLineToolStripMenuItem});
-            this.menu_list.Name = "menu_list";
-            this.menu_list.Size = new System.Drawing.Size(181, 70);
-            // 
-            // addLineToolStripMenuItem
-            // 
-            this.addLineToolStripMenuItem.Name = "addLineToolStripMenuItem";
-            this.addLineToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.addLineToolStripMenuItem.Text = "Add Line";
-            this.addLineToolStripMenuItem.Click += new System.EventHandler(this.addLineToolStripMenuItem_Click);
-            // 
-            // removeLineToolStripMenuItem
-            // 
-            this.removeLineToolStripMenuItem.Name = "removeLineToolStripMenuItem";
-            this.removeLineToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.removeLineToolStripMenuItem.Text = "Remove Line";
-            this.removeLineToolStripMenuItem.Click += new System.EventHandler(this.removeLineToolStripMenuItem_Click);
+            this.toggleConsoleToolStripMenuItem.Checked = true;
+            this.toggleConsoleToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.toggleConsoleToolStripMenuItem.Name = "toggleConsoleToolStripMenuItem";
+            this.toggleConsoleToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.toggleConsoleToolStripMenuItem.Text = "Toggle Console";
+            this.toggleConsoleToolStripMenuItem.Click += new System.EventHandler(this.toggleConsoleToolStripMenuItem_Click);
             // 
             // Main
             // 
@@ -276,14 +296,16 @@
         private System.Windows.Forms.ToolStripMenuItem openDVARInfosToolStripMenuItem;
         private System.Windows.Forms.ContextMenuStrip menu_dvar;
         private System.Windows.Forms.ToolStripMenuItem changeNameToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem saveAsNamesToolStripMenuItem;
         private System.Windows.Forms.ToolStripStatusLabel status_text;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
-        private System.Windows.Forms.ToolStripMenuItem indentOnSaveToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reloadConfigToolStripMenuItem;
         private System.Windows.Forms.ContextMenuStrip menu_list;
         private System.Windows.Forms.ToolStripMenuItem addLineToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem removeLineToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem optionsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem saveAsNamesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem indentOnSaveToolStripMenuItem;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+        private System.Windows.Forms.ToolStripMenuItem toggleConsoleToolStripMenuItem;
     }
 }
 

@@ -14,9 +14,9 @@ namespace MWR_Config_Editor
             [Option('f', "file", Required = false, HelpText = "Auto open specific config file by path")]
             public string ConfigFilePath { get; set; }
             [Option("save-as-names", Required = false, HelpText = "Wether to save the config with name values instead of hashes by default")]
-            public bool SaveAsNames { get; set; } = true;
+            public bool SaveAsNames { get; set; } = false;
             [Option("indent", Required = false, HelpText = "Wether to indent the config for better readability")]
-            public bool Indent { get; set; } = true;
+            public bool Indent { get; set; } = false;
         }
         /// <summary>
         /// The main entry point for the application.
