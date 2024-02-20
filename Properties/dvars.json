@@ -196,6 +196,7 @@
   },
   {
     "Hash": "0xB43FE869",
+    "Name": "sys_gpu",
     "Type": "string"
   },
   {
@@ -5217,7 +5218,10 @@
   {
     "Hash": "0xD9DA29C1",
     "Name": "sv_cheats",
-    "Type": "int"
+    "Description": "Unlocks cheats",
+    "Type": "bool",
+    "DefaultValue": "0"
+
   },
   {
     "Hash": "0x5D890AA2",
@@ -9709,5 +9713,50 @@
   {
     "Hash": "0x0A4DB26C",
     "Type": "int"
+  },
+  {
+    "Hash": "0xB6AAB0B3",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x617FB3B4",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x5903A7F4",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x44F777A5",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xD3664C10",
+    "Type": "int"
+  },
+  {
+    "Hash": "0x87F8139D",
+    "Type": "float"
+  },
+  {
+    "Hash": "0x88BDFEEF",
+    "Type": "string"
+  },
+  {
+    "Hash": "0x2ABED1A2",
+    "Type": "float"
+  },
+  {
+    "Hash": "0xF6C7848D",
+    "Type": "int"
+  },
+  {
+    "Hash": "0xEE73560B",
+    "Name": "mis_cheats",
+    "Description": "Unlocks all missions in singleplayer (Requires sv_cheats)",
+    "Type": "int",
+    "MinValue": "0",
+    "MaxValue": "1",
+    "DefaultValue": "0"
   }
 ]
