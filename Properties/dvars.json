@@ -9755,8 +9755,6 @@
     "Name": "mis_cheats",
     "Description": "Unlocks all missions in singleplayer (Requires sv_cheats)",
     "Type": "int",
-    "MinValue": "0",
-    "MaxValue": "1",
     "DefaultValue": "0"
   }
 ]
